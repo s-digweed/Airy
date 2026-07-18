@@ -4,11 +4,7 @@
     <display-name>Peak TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-607">
-    <title>Meatballs</title>
-    <desc>Wacky hijinks of counselors and campers at a less-than-average summer camp</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718200000 +0000" channel="airy-607">
+  <programme start="20260718190000 +0000" stop="20260718200000 +0000" channel="airy-607">
     <title>Return of the Tiger</title>
     <desc>Return of the Tiger</desc>
   </programme>
@@ -32,22 +28,22 @@
     <title>Monsters </title>
     <desc>A man who is in a hospital following a car accident begins to see terrifying apparitions of giant insect-like creatures</desc>
   </programme>
-  <programme start="20260719010000 +0000" stop="20260719013000 +0000" channel="airy-607">
+  <programme start="20260719010000 +0000" stop="20260719020000 +0000" channel="airy-607">
     <title>Freddys Nightmares</title>
     <desc>A married woman is into watching game shows She gets onto one which becomes a nightmare wherein if she answers correctly her husband dies She wins 1000000 then travels back in time warning herself to get rid of the money or else her husband will die</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719023000 +0000" channel="airy-607">
+    <title>Monsters </title>
+    <desc>A man sent to investigate why a subway maintenance crew is paid so highly gets more than he bargained for</desc>
+  </programme>
+  <programme start="20260719023000 +0000" stop="20260719030000 +0000" channel="airy-607">
+    <title>Monsters </title>
+    <desc>An astronomy student believes she has contacted an alien lifeform that is frighteningly close to earth</desc>
   </programme>
   <channel id="airy-631">
     <display-name>Best of Times</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-631">
-    <title>The Bullwinkle </title>
-    <desc>The Bullwinkle </desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718190000 +0000" channel="airy-631">
-    <title>The Underground War</title>
-    <desc>Part one of a two-part documentary about networks of underground tunnels built on the front lines in the First World War During World War One a barbaric war was fought deep beneath the trenches in a maze of tunnels and dugouts over 10 metres underground</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718200000 +0000" channel="airy-631">
     <title>Great Battles Of The Great War -The Somme </title>
     <desc>The 1916 Somme offensive was one of the largest and bloodiest battles of the First World War 1914-18 The opening day of the attack 1 July 1916 saw the British Army sustain 57000 casualties the bloodiest day in its history</desc>
@@ -72,7 +68,11 @@
     <title>Desert Generals</title>
     <desc>Britain would have lost her empire and the war in 1942 had Axis forces beaten the British army in the Middle East Tim Collins re-investigates Britain’s critical desert campaign and the controversial battle tactics needed to take on the unbeaten Panzer army in total war preventing Hitler from gaining Egypt Iraq and the oilfields Foreshadowing current world events this oil-rich region was crucial to the war effort These are the World War II battles that shaped the Middle East and created the world in which we live today</desc>
   </programme>
-  <programme start="20260719010000 +0000" stop="20260719013000 +0000" channel="airy-631">
+  <programme start="20260719010000 +0000" stop="20260719020000 +0000" channel="airy-631">
+    <title>The Long Shadow </title>
+    <desc>Marking the centenary of World War One historian David Reynolds explores the enduring shadow the conflict has cast over Britain and Europe in the century that followed Travelling to locations across Europe from Slovenia to the Sudetenland Belfast to Berlin David Reynolds traces the war’s legacy arguing that it unleashed forces we still grapple with today This remarkable series also looks again at how the experience of war haunted the generation who lived through it in particular the soldiers who survived it – dynamic characters such as Benito Mussolini Eamon de Valera Philippe Petain James Ramsey MacDonald and Thomas Masaryk Reynolds examines how these men shaped the peace that followed war often in unpredictable ways</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719030000 +0000" channel="airy-631">
     <title>The Long Shadow </title>
     <desc>Marking the centenary of World War One historian David Reynolds explores the enduring shadow the conflict has cast over Britain and Europe in the century that followed Travelling to locations across Europe from Slovenia to the Sudetenland Belfast to Berlin David Reynolds traces the war’s legacy arguing that it unleashed forces we still grapple with today This remarkable series also looks again at how the experience of war haunted the generation who lived through it in particular the soldiers who survived it – dynamic characters such as Benito Mussolini Eamon de Valera Philippe Petain James Ramsey MacDonald and Thomas Masaryk Reynolds examines how these men shaped the peace that followed war often in unpredictable ways</desc>
   </programme>
@@ -80,14 +80,6 @@
     <display-name>Shattered TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-605">
-    <title>Filler</title>
-    <desc>Filler</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718190000 +0000" channel="airy-605">
-    <title>Freddys  Nightmares </title>
-    <desc>A groom to be gets a lesson in monogamy from the stripper from hell at his bachelor party and then his bride is overwhelmed with suspicion and mistrust and busts married men who cheat due to having caught her father step-out on mom when she was a child</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718193000 +0000" channel="airy-605">
     <title>Tales from the Crypt </title>
     <desc>A swindler Jack loves money and twins One day he meets rich twins that show interest in him</desc>
@@ -124,22 +116,18 @@
     <title>Satans Triangle</title>
     <desc>A mysterious woman is the sole survivor of a boat wreck caused by a sudden terrible storm off the coast of Florida</desc>
   </programme>
+  <programme start="20260719013000 +0000" stop="20260719020000 +0000" channel="airy-605">
+    <title>Filler</title>
+    <desc>Filler</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719030000 +0000" channel="airy-605">
+    <title>Freddys Nightmares </title>
+    <desc>A young football star begins to have nightmares about a serial killer called The Springwood Chopper after finding his last victim Each dream reveals more of the killer until he is blamed for the killings Now his girlfriend begins to experience the same dreamswho is the killer</desc>
+  </programme>
   <channel id="airy-632">
     <display-name>TTL TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-632">
-    <title>Gomer Pyle USMC</title>
-    <desc>Both Gomer and Sergeant Carter are conned by an old bum</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718183000 +0000" channel="airy-632">
-    <title>Gilligans Island </title>
-    <desc>Gilligan discovers an underground source of hot water on the island but The Professor soon learns that the source of the hot water is an active volcano on the other side of the island</desc>
-  </programme>
-  <programme start="20260718183000 +0000" stop="20260718190000 +0000" channel="airy-632">
-    <title>Gilligans Island </title>
-    <desc>An impostor posing as Mr Howell claims to having been rescued and begins selling off Mr Howells stocks The real Mr Howell offers his fellow castaways a hefty reward to get him off the island and save his fortune</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718193000 +0000" channel="airy-632">
     <title>Real McCoys S03E22</title>
     <desc>Real McCoys S03E22</desc>
@@ -188,18 +176,22 @@
     <title>Gomer Pyle USMC </title>
     <desc>Sergeant Carter takes a temporary desk job writing training manuals and considers making it permanent when he sees the platoon does fine without him; so Gomer messes things up to bring the Sergeant back</desc>
   </programme>
+  <programme start="20260719013000 +0000" stop="20260719020000 +0000" channel="airy-632">
+    <title>Gomer Pyle USMC</title>
+    <desc>Gomer helps a recruit smuggle his girlfriend into the barracks</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719023000 +0000" channel="airy-632">
+    <title>Gilligans Island </title>
+    <desc>Gilligan moves to the other side of the island when the other castaways suddenly become allergic to him</desc>
+  </programme>
+  <programme start="20260719023000 +0000" stop="20260719030000 +0000" channel="airy-632">
+    <title>Gilligans Island </title>
+    <desc>Gilligan finds sunflower seeds on the island that gives him the ability to read minds and when the fellow castaways find out they want in on the action</desc>
+  </programme>
   <channel id="airy-612">
     <display-name>PassTime TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-612">
-    <title>Evening Shade </title>
-    <desc>Avas obsessing over the baby shower reaches a fever pitch</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718190000 +0000" channel="airy-612">
-    <title>Vegas</title>
-    <desc>DA Reynolds stages a kidnapping and disappears with the Savoys skim money Meanwhile Yvonne goes to Hollywood for an audition and Dixon joins her to see pay Violet a surprise visit and Mias birth mother arrives in Vegas</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718200000 +0000" channel="airy-612">
     <title>Hart to Hart</title>
     <desc>An innocent woman is blackmailed by her ex-husband into using their son to extort money from Jonathan</desc>
@@ -232,22 +224,18 @@
     <title>Operation Repo</title>
     <desc>The team is ahead of schedule on their Vegas mission but will it all be derailed when Froy brings unwanted trouble back to the office Also Ronnie and Froy run into an unexpected dilemma when a husbands better halves take the reins Carlos and Sonia repo a limo from an arrogant lotto winner whose luck has run out and Froy and Lou track down an RV as a side repo for a mom and pop shop unfortunately the repo goes disastrously wrong when the RV explodes and the fire department has to be called</desc>
   </programme>
-  <programme start="20260719000000 +0000" stop="20260719013000 +0000" channel="airy-612">
+  <programme start="20260719000000 +0000" stop="20260719020000 +0000" channel="airy-612">
     <title>Breakthrough</title>
     <desc>In 1944 a German sergeant gets involved in an anti-Hitler conspiracy and saves the life of an American colonel</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719030000 +0000" channel="airy-612">
+    <title>Away All Boats</title>
+    <desc>The story of a US Naval ship and its crew in the Pacific from 1943 to 1945</desc>
   </programme>
   <channel id="airy-649">
     <display-name>RnR TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-649">
-    <title>Filler</title>
-    <desc>Filler</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718190000 +0000" channel="airy-649">
-    <title>The Dukes of Hazzard</title>
-    <desc>In the series pilot episode cousins Bo and Luke Duke intercept Hazzard County Sheriff Rosco P Coltranes illegal shipment of slot machines then plan to use the proceeds to donate to the Hazzard County Orphanage in Roscos name to ensure his win in an upcoming election against a corrupt opponent</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718200000 +0000" channel="airy-649">
     <title>Hercules 220</title>
     <desc>Hercules 220</desc>
@@ -284,22 +272,18 @@
     <title>Filler</title>
     <desc>Filler</desc>
   </programme>
-  <programme start="20260719010000 +0000" stop="20260719013000 +0000" channel="airy-649">
+  <programme start="20260719010000 +0000" stop="20260719020000 +0000" channel="airy-649">
     <title>The Dukes of Hazzard</title>
     <desc>Daisy learns that Jessi Colter has recorded a song she wrote One problem Wheres the royalties shes due Thats what Bo and Luke try to find out as they infiltrate Hazzard County Commissioner Boss JD Hoggs record piracy operation</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719030000 +0000" channel="airy-649">
+    <title>Hercules 209</title>
+    <desc>Hercules 209</desc>
   </programme>
   <channel id="airy-651">
     <display-name>The Canyon</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-651">
-    <title>Cheyenne</title>
-    <desc>Cheyenne and Smitty encounter settlers headed to Wyoming who lost their guide On the way to Fort Laramie a group of rustlers steal their cattle and a boys brother is killed The two head to a nearby to try to recover the stolen cattle</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718190000 +0000" channel="airy-651">
-    <title>Young Riders</title>
-    <desc>Young Riders</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718200000 +0000" channel="airy-651">
     <title>Lonesome Dove Outlaw Years</title>
     <desc>Lonesome Dove Outlaw Years</desc>
@@ -332,26 +316,18 @@
     <title>Cheyenne</title>
     <desc>The ArgonautsCheyenne meets two prospectors whose partner was killed by Indians The partner is the only one who knows where they found gold Given a description Cheyenne is able to lead them to the gold but one of the mens greed overtakes him</desc>
   </programme>
-  <programme start="20260719010000 +0000" stop="20260719013000 +0000" channel="airy-651">
+  <programme start="20260719010000 +0000" stop="20260719020000 +0000" channel="airy-651">
     <title>Young Riders</title>
     <desc>Young Riders</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719030000 +0000" channel="airy-651">
+    <title>Lonesome Dove Outlaw Years</title>
+    <desc>Lonesome Dove Outlaw Years</desc>
   </programme>
   <channel id="airy-536">
     <display-name>Thailand TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-536">
-    <title>Lets Go Thailand Welcome to Thailand Ep 001</title>
-    <desc>Lets Go Thailand Welcome to Thailand Ep 001</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718183000 +0000" channel="airy-536">
-    <title>Lets Go Thailand Urban Farming Wats and Sights Ep 014</title>
-    <desc>Lets Go Thailand Urban Farming Wats and Sights Ep 014</desc>
-  </programme>
-  <programme start="20260718183000 +0000" stop="20260718190000 +0000" channel="airy-536">
-    <title>Lets Go Thailand Sights and Sounds Bangkok Ep 011</title>
-    <desc>Lets Go Thailand Sights and Sounds Bangkok Ep 011</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718193000 +0000" channel="airy-536">
     <title>Lets Go Thailand Sights and Sounds Ep 003</title>
     <desc>Lets Go Thailand Sights and Sounds Ep 003</desc>
@@ -400,18 +376,22 @@
     <title>The Coin short movie</title>
     <desc>The Coin short movie</desc>
   </programme>
+  <programme start="20260719013000 +0000" stop="20260719020000 +0000" channel="airy-536">
+    <title>Crossing Salween HD - Eng Subs</title>
+    <desc>Crossing Salween HD - Eng Subs</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719023000 +0000" channel="airy-536">
+    <title>Win Lose Forgive</title>
+    <desc>Win Lose Forgive</desc>
+  </programme>
+  <programme start="20260719023000 +0000" stop="20260719030000 +0000" channel="airy-536">
+    <title>Thai Poppy 1991full version</title>
+    <desc>Thai Poppy 1991full version</desc>
+  </programme>
   <channel id="airy-606">
     <display-name>Cinema Star</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718183000 +0000" channel="airy-606">
-    <title>Stryker</title>
-    <desc>The worlds water supply has dried up due to some sort of apocalypse A beautiful woman holds the secret to where one of the last springs being guarded by a group of Amazons A Road Warrior like crew captures her and tries to make her talk through brutal torture The hero Styrker unites with some of the remaining good guys and the Amazons and frees the woman </desc>
-  </programme>
-  <programme start="20260718183000 +0000" stop="20260718190000 +0000" channel="airy-606">
-    <title>Filler</title>
-    <desc>Filler</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718210000 +0000" channel="airy-606">
     <title>My Science Project</title>
     <desc>A teen John Stockwell and his girlfriend Danielle von Zerneck raid a military junkyard and find a time-travel contraption from a UFO </desc>
@@ -424,7 +404,7 @@
     <title>Arena</title>
     <desc>In a huge space arena fighters from all over the galaxy come to battle each other in hopes of claiming victory While most warriors are of various alien species Steve Armstrong Paul Satterfield is a rarity -- a human who aspires to compete in the games Training with his friend Shorty Hamilton Camp and encouraged by the lovely promoter Quinn Claudia Christian Steve has a shot at the intergalactic championship but plenty of extraterrestrial brawlers are eager to take him down </desc>
   </programme>
-  <programme start="20260719010000 +0000" stop="20260719013000 +0000" channel="airy-606">
+  <programme start="20260719010000 +0000" stop="20260719030000 +0000" channel="airy-606">
     <title>Firewalker</title>
     <desc>Two seasoned adventurers recruited by a seemingly psychic woman with a treasure map go on an adventure to recover a horde of gold belonging to an ancient being called the Firewalker</desc>
   </programme>
@@ -432,7 +412,7 @@
     <display-name>Big Cinema</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718193000 +0000" channel="airy-629">
+  <programme start="20260718190000 +0000" stop="20260718193000 +0000" channel="airy-629">
     <title>El Cid 1961 Charlton Heston  Sophia Loren</title>
     <desc>El Cid 1961 Charlton Heston  Sophia Loren</desc>
   </programme>
@@ -444,22 +424,18 @@
     <title>Enter the Ninja</title>
     <desc>After passing a ninja master test in Japan Cole visits a war buddy in the Philippines He helps him fight men who want his buddys plantation</desc>
   </programme>
-  <programme start="20260718230000 +0000" stop="20260719013000 +0000" channel="airy-629">
+  <programme start="20260718230000 +0000" stop="20260719023000 +0000" channel="airy-629">
     <title>El Cid 1961 Charlton Heston  Sophia Loren</title>
     <desc>El Cid 1961 Charlton Heston  Sophia Loren</desc>
+  </programme>
+  <programme start="20260719023000 +0000" stop="20260719030000 +0000" channel="airy-629">
+    <title>Out of the Blue</title>
+    <desc>Bad luck turns to tragedy for an ex-biker Dennis Hopper his drug-addict wife Sharon Farrell and their teenage daughter Linda Manz</desc>
   </programme>
   <channel id="airy-625">
     <display-name>Moviezone</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-625">
-    <title>Filler</title>
-    <desc>Filler</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718190000 +0000" channel="airy-625">
-    <title>Freddys  Nightmares </title>
-    <desc>A groom to be gets a lesson in monogamy from the stripper from hell at his bachelor party and then his bride is overwhelmed with suspicion and mistrust and busts married men who cheat due to having caught her father step-out on mom when she was a child</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718193000 +0000" channel="airy-625">
     <title>Tales from the Crypt </title>
     <desc>A swindler Jack loves money and twins One day he meets rich twins that show interest in him</desc>
@@ -496,15 +472,19 @@
     <title>Satans Triangle</title>
     <desc>A mysterious woman is the sole survivor of a boat wreck caused by a sudden terrible storm off the coast of Florida</desc>
   </programme>
+  <programme start="20260719013000 +0000" stop="20260719020000 +0000" channel="airy-625">
+    <title>Filler</title>
+    <desc>Filler</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719030000 +0000" channel="airy-625">
+    <title>Freddys Nightmares </title>
+    <desc>A young football star begins to have nightmares about a serial killer called The Springwood Chopper after finding his last victim Each dream reveals more of the killer until he is blamed for the killings Now his girlfriend begins to experience the same dreamswho is the killer</desc>
+  </programme>
   <channel id="airy-650">
     <display-name>Scare O Ween</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-650">
-    <title>Trilogy of Terror</title>
-    <desc>The same woman Karen Black appears in three tales as a blackmailed teacher a tormented lover and opposite sisters</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718210000 +0000" channel="airy-650">
+  <programme start="20260718190000 +0000" stop="20260718210000 +0000" channel="airy-650">
     <title>Dawn of the Dead</title>
     <desc>During an escalating zombie epidemic two Philadelphia SWAT team members a traffic reporter and his TV executive girlfriend seek refuge in a secluded shopping mall</desc>
   </programme>
@@ -516,7 +496,7 @@
     <title>Chopping Mall</title>
     <desc>A group of young shopping mall employees stay behind for a late night party in one of the stores When the mall goes on lock-down before they can get out the robot security system malfunctions and goes on a killing spree</desc>
   </programme>
-  <programme start="20260719010000 +0000" stop="20260719013000 +0000" channel="airy-650">
+  <programme start="20260719010000 +0000" stop="20260719030000 +0000" channel="airy-650">
     <title>What Waits Below</title>
     <desc>An army experiment in submarine communications falls foul of the deadly secret hidden deep within the cave system housing their transmitter</desc>
   </programme>
@@ -524,31 +504,7 @@
     <display-name>Hard Knocks</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718174612 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>Vladimir Moravcík v. Hicham El Gaoui</desc>
-  </programme>
-  <programme start="20260718174612 +0000" stop="20260718175548 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>Nick Agallar v. Nardu Debrah</desc>
-  </programme>
-  <programme start="20260718175548 +0000" stop="20260718175748 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
-  </programme>
-  <programme start="20260718175748 +0000" stop="20260718175850 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
-  </programme>
-  <programme start="20260718175850 +0000" stop="20260718175923 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
-  </programme>
-  <programme start="20260718175923 +0000" stop="20260718180051 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
-  </programme>
-  <programme start="20260718180051 +0000" stop="20260718190312 +0000" channel="airy-443">
+  <programme start="20260718190000 +0000" stop="20260718190312 +0000" channel="airy-443">
     <title>Hard Knocks</title>
     <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
   </programme>
@@ -608,22 +564,50 @@
     <title>Hard Knocks</title>
     <desc>No description.</desc>
   </programme>
-  <programme start="20260719012738 +0000" stop="20260719013000 +0000" channel="airy-443">
+  <programme start="20260719012738 +0000" stop="20260719013346 +0000" channel="airy-443">
     <title>Hard Knocks</title>
     <desc>Alfie Davis v. Kostadin Enev</desc>
+  </programme>
+  <programme start="20260719013346 +0000" stop="20260719014236 +0000" channel="airy-443">
+    <title>Hard Knocks</title>
+    <desc>Professional and Amateur fighters from across North America battle it out in Hard Knocks' cage. Tyrone Halkett v. Travis Favel.</desc>
+  </programme>
+  <programme start="20260719014236 +0000" stop="20260719014301 +0000" channel="airy-443">
+    <title>Hard Knocks</title>
+    <desc>Connor Hayes v. Arydas Pumputis</desc>
+  </programme>
+  <programme start="20260719014301 +0000" stop="20260719015515 +0000" channel="airy-443">
+    <title>Hard Knocks</title>
+    <desc>Hicham Achalhi v. Andre Schmeling</desc>
+  </programme>
+  <programme start="20260719015515 +0000" stop="20260719015557 +0000" channel="airy-443">
+    <title>Hard Knocks</title>
+    <desc>Colton Cronkite v. Todd Vatcher</desc>
+  </programme>
+  <programme start="20260719015557 +0000" stop="20260719015654 +0000" channel="airy-443">
+    <title>Hard Knocks</title>
+    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
+  </programme>
+  <programme start="20260719015654 +0000" stop="20260719015854 +0000" channel="airy-443">
+    <title>Hard Knocks</title>
+    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
+  </programme>
+  <programme start="20260719015854 +0000" stop="20260719020022 +0000" channel="airy-443">
+    <title>Hard Knocks</title>
+    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
+  </programme>
+  <programme start="20260719020022 +0000" stop="20260719020051 +0000" channel="airy-443">
+    <title>Hard Knocks</title>
+    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
+  </programme>
+  <programme start="20260719020051 +0000" stop="20260719030000 +0000" channel="airy-443">
+    <title>Hard Knocks</title>
+    <desc>The School of Hard Knocks 26 filmed at the Art Hauser Centre in Prince Albert. Professional and Amateur fighters from across North America battle it out in the cage. Luke Benoit vs. Chad Halkett; Josh Heinz vs.Randy Coyer; Ben Oliviero vs. Nic Grandbois.</desc>
   </programme>
   <channel id="airy-653">
     <display-name>Mob Candy Magazine</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-653">
-    <title>MobCandy_1_nomark</title>
-    <desc>MobCandy_1_nomark</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718190000 +0000" channel="airy-653">
-    <title>MObCandy_ep2_nomark</title>
-    <desc>MObCandy_ep2_nomark</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718200000 +0000" channel="airy-653">
     <title>MC MamaJones Part2</title>
     <desc>MC MamaJones Part2</desc>
@@ -648,19 +632,23 @@
     <title>MC renee part2 nomark</title>
     <desc>MC renee part2 nomark</desc>
   </programme>
-  <programme start="20260719010000 +0000" stop="20260719013000 +0000" channel="airy-653">
+  <programme start="20260719010000 +0000" stop="20260719020000 +0000" channel="airy-653">
     <title>David_Zuker_Episode_8_Mob_Candy_Louie_Hubella_33FF_33GG_33HH_33II_33JJ_33KK_17K_48Sample_R100</title>
     <desc>David_Zuker_Episode_8_Mob_Candy_Louie_Hubella_33FF_33GG_33HH_33II_33JJ_33KK_17K_48Sample_R100</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719023000 +0000" channel="airy-653">
+    <title>Episode 1–Mob Candy</title>
+    <desc>Episode 1–Mob Candy</desc>
+  </programme>
+  <programme start="20260719023000 +0000" stop="20260719030000 +0000" channel="airy-653">
+    <title>Episode 5–Mob Candy</title>
+    <desc>Episode 5–Mob Candy</desc>
   </programme>
   <channel id="airy-505">
     <display-name>The Sherard Show</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718183000 +0000" channel="airy-505">
-    <title>The Chef Felicia Grady Cooking Special</title>
-    <desc>World renown chef Ms Felicia Grady stops by the show to cook a delicious meal for the crew</desc>
-  </programme>
-  <programme start="20260718183000 +0000" stop="20260718200000 +0000" channel="airy-505">
+  <programme start="20260718190000 +0000" stop="20260718200000 +0000" channel="airy-505">
     <title>The Heart Hayes Interview</title>
     <desc>Join me as I sit down with the beautiful actress Heart Hayes Hear how keeping her standards high is the only option Also in the episode  I chat it up with former Supreme Susaye Green And Businessman Mr Johnboy Watts</desc>
   </programme>
@@ -684,18 +672,18 @@
     <title>The Florence La Rue Interview</title>
     <desc>I never really thought I could sing Hear in her own words how singing was the furtherest thing from her mind</desc>
   </programme>
+  <programme start="20260719013000 +0000" stop="20260719023000 +0000" channel="airy-505">
+    <title>The Brian Stanley Interview</title>
+    <desc>The master writer and producer Mr Brian Stanley returns to the Sherard Show to talk about his upcoming film and play</desc>
+  </programme>
+  <programme start="20260719023000 +0000" stop="20260719030000 +0000" channel="airy-505">
+    <title>The Fred Williamson Exclusive Interview</title>
+    <desc>From pro football star to Hollywood icon Join me as I chop it up with the legendary Mr Fred Williamson</desc>
+  </programme>
   <channel id="airy-585">
     <display-name>Nashville Country TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-585">
-    <title>Country Music</title>
-    <desc>Country Music</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718190000 +0000" channel="airy-585">
-    <title>Country Music</title>
-    <desc>Country Music</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718203000 +0000" channel="airy-585">
     <title>Country Music</title>
     <desc>Country Music</desc>
@@ -716,22 +704,14 @@
     <title>Country Music</title>
     <desc>Country Music Video Mix</desc>
   </programme>
+  <programme start="20260719013000 +0000" stop="20260719030000 +0000" channel="airy-585">
+    <title>Country Music</title>
+    <desc>Country Music Video Mix</desc>
+  </programme>
   <channel id="airy-556">
     <display-name>My Jam Music TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-556">
-    <title>Stephen_Thomas_Breaking_Hearts</title>
-    <desc>Stephen_Thomas_Breaking_Hearts</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718183000 +0000" channel="airy-556">
-    <title>Captains_Of_Entropy_The_Flea</title>
-    <desc>Captains_Of_Entropy_The_Flea</desc>
-  </programme>
-  <programme start="20260718183000 +0000" stop="20260718190000 +0000" channel="airy-556">
-    <title>YEAR OF THE SQRAT ATTACK</title>
-    <desc>YEAR OF THE SQRAT ATTACK</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718193000 +0000" channel="airy-556">
     <title>The_Dead_Daisies_Boom_Boom</title>
     <desc>The_Dead_Daisies_Boom_Boom</desc>
@@ -784,17 +764,25 @@
     <title>Cahill Kimberley Locke Feel The Love Official Music Video 4K</title>
     <desc>Cahill Kimberley Locke Feel The Love Official Music Video 4K</desc>
   </programme>
+  <programme start="20260719013000 +0000" stop="20260719020000 +0000" channel="airy-556">
+    <title>YEAR OF THE SQRAT ATTACK</title>
+    <desc>YEAR OF THE SQRAT ATTACK</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719023000 +0000" channel="airy-556">
+    <title>Marina Lang Mystery Makes The Heart Fonder</title>
+    <desc>Marina Lang Mystery Makes The Heart Fonder</desc>
+  </programme>
+  <programme start="20260719023000 +0000" stop="20260719030000 +0000" channel="airy-556">
+    <title>California Summer Dream Official Music Video</title>
+    <desc>California Summer Dream Official Music Video</desc>
+  </programme>
   <channel id="airy-656">
     <display-name>Now Media Spanish</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718190000 +0000" channel="airy-656">
-    <title>MFLOW 7 4 26</title>
-    <desc>MFLOW 7 4 26</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718200000 +0000" channel="airy-656">
-    <title>SER FIEL A MI 07 11 26</title>
-    <desc>SER FIEL A MI 07 11 26</desc>
+    <title>SER FIEL A MI DANIEL ORJUELA FERRIN 07 18 26</title>
+    <desc>SER FIEL A MI DANIEL ORJUELA FERRIN 07 18 26</desc>
   </programme>
   <programme start="20260718200000 +0000" stop="20260718220000 +0000" channel="airy-656">
     <title>ZONA DE NOTICIAS</title>
@@ -812,22 +800,18 @@
     <title>EL INGREDIENTE SECRETO DANIEL KAREN COHEN</title>
     <desc>EL INGREDIENTE SECRETO - DANIEL KAREN COHEN  - 08-13-25</desc>
   </programme>
-  <programme start="20260719010000 +0000" stop="20260719013000 +0000" channel="airy-656">
+  <programme start="20260719010000 +0000" stop="20260719020000 +0000" channel="airy-656">
     <title>Full Ep Tecnocasters 07 11 2026</title>
     <desc>Full Ep Tecnocasters 07 11 2026</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719030000 +0000" channel="airy-656">
+    <title>LUDOLOGOS 7 11 26</title>
+    <desc>LUDOLOGOS 7 11 26</desc>
   </programme>
   <channel id="airy-657">
     <display-name>Now Media English</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-657">
-    <title>SpanishJanice Jackie 3-25-26</title>
-    <desc>SpanishJanice Jackie 3-25-26</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718190000 +0000" channel="airy-657">
-    <title>BUSINESS FORWARD</title>
-    <desc>BUSINESS FORWARD</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718200000 +0000" channel="airy-657">
     <title>THE BUSINESS OF PET CARE KJ MCGLINN 7 4 26</title>
     <desc>THE BUSINESS OF PET CARE KJ MCGLINN 7 4 26</desc>
@@ -852,26 +836,18 @@
     <title>Lideres Inquebrantables Maria Urrutia 7 11 26</title>
     <desc>Lideres Inquebrantables Maria Urrutia 7 11 26</desc>
   </programme>
-  <programme start="20260719010000 +0000" stop="20260719013000 +0000" channel="airy-657">
+  <programme start="20260719010000 +0000" stop="20260719020000 +0000" channel="airy-657">
     <title>REAL ESTATE DR DENIS BURKE</title>
     <desc>REAL ESTATE DR DENIS BURKE</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719030000 +0000" channel="airy-657">
+    <title>DW ENGLISH</title>
+    <desc>News off-beat stories and analysis of German and international affairs Dive deeper with our features from Europe and beyond Watch our 247 TV stream</desc>
   </programme>
   <channel id="airy-633">
     <display-name>Kids Net</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-633">
-    <title>Challenge of the GoBots</title>
-    <desc>The Renegades join forces with the criminal underworld to take over the United States</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718183000 +0000" channel="airy-633">
-    <title>The Herculoids</title>
-    <desc>The Herculoids</desc>
-  </programme>
-  <programme start="20260718183000 +0000" stop="20260718190000 +0000" channel="airy-633">
-    <title>The Herculoids </title>
-    <desc>Bubblecrafts rise out of the waters Bubblemen are directed by Brotak to kidnap Zandor and TaraAndropon sends his robots to attack the Herculoids only to be defeated Zandor accepts his challenge as he sends his best warrior Ogron</desc>
-  </programme>
   <programme start="20260718190000 +0000" stop="20260718193000 +0000" channel="airy-633">
     <title>Jayce and The Wheeled Warriors</title>
     <desc>On the ice planet Auriga revolutionary leader Cyrilla makes a deal with Saw Boss -- she delivers Jayce in return for Saw Boss deposing the gangster casino owner Marduk whos made slaves of everyone on the planet Cyrilla realizes her error</desc>
@@ -924,19 +900,23 @@
     <title>Challenge of the GoBots</title>
     <desc>The Renegades create a super-powerful version of themselves called the Puzzler to combat the Guardians and their Power Suits</desc>
   </programme>
+  <programme start="20260719013000 +0000" stop="20260719020000 +0000" channel="airy-633">
+    <title>Challenge of the GoBots</title>
+    <desc>The Renegades beam the Guardians into a parallel universe where the unwitting Leader-1 and Scooter fight evil Guardians and ally with the good Cy-Kill Crasher and Cop-Tur</desc>
+  </programme>
+  <programme start="20260719020000 +0000" stop="20260719023000 +0000" channel="airy-633">
+    <title>The Herculoids </title>
+    <desc>The Herculoids </desc>
+  </programme>
+  <programme start="20260719023000 +0000" stop="20260719030000 +0000" channel="airy-633">
+    <title>The Herculoids </title>
+    <desc>Neron captures the Herculoids to fight gladiatorial battles in his arenaThe Temple of Trax seems to be abandoned In reality the high priest has a plan to kidnap Tara and sacrifice her for the return of Trax after 2000 years</desc>
+  </programme>
   <channel id="airy-655">
     <display-name>Cowboy Christian Network</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="airy-655">
-    <title>BB605712H</title>
-    <desc>BB605712H</desc>
-  </programme>
-  <programme start="20260718180000 +0000" stop="20260718183000 +0000" channel="airy-655">
-    <title>BB605712H</title>
-    <desc>BB605712H</desc>
-  </programme>
-  <programme start="20260718183000 +0000" stop="20260718193000 +0000" channel="airy-655">
+  <programme start="20260718190000 +0000" stop="20260718193000 +0000" channel="airy-655">
     <title>Back To Basics Part</title>
     <desc>Back To Basics Part</desc>
   </programme>
@@ -963,5 +943,13 @@
   <programme start="20260719003000 +0000" stop="20260719013000 +0000" channel="airy-655">
     <title>Feeding The Sheep CCN</title>
     <desc>Feeding The Sheep CCN</desc>
+  </programme>
+  <programme start="20260719013000 +0000" stop="20260719023000 +0000" channel="airy-655">
+    <title>Getting Closer With Our Lord Corey Ross CCN</title>
+    <desc>Getting Closer With Our Lord Corey Ross CCN</desc>
+  </programme>
+  <programme start="20260719023000 +0000" stop="20260719030000 +0000" channel="airy-655">
+    <title>Behave Like A Christian CCN</title>
+    <desc>Behave Like A Christian CCN</desc>
   </programme>
 </tv>
