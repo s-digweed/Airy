@@ -4,11 +4,7 @@
     <display-name>Peak TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-607">
-    <title>Terror At London Bridge</title>
-    <desc>When the London bridge is fully laid a murder spree begins Don Gregory suspects that the bridges historical link to Jack The Ripper and the Thames River may have something to do with the killings</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820110000 +0000" channel="airy-607">
+  <programme start="20260820093000 +0000" stop="20260820110000 +0000" channel="airy-607">
     <title>Perry Mason The Case of the Notorious Nun</title>
     <desc>Father Thomas ONeil Timothy Bottoms is murdered and a nun Sister Margaret Michele Greene with whom he was rumoured to be having an affair is arrested as the suspect in the scandalous crime Perry Mason Raymond Burr now a judge is asked by his pal Archbishop Stefan Corro to look into it With not only Mason but his secretary Della Street Barbara Hale and his recent investigative partner Paul Drake Jr William Katt on the case Margarets name may be cleared</desc>
   </programme>
@@ -36,15 +32,19 @@
     <title>Addams 223</title>
     <desc>Addams 223</desc>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820163000 +0000" channel="airy-607">
+  <programme start="20260820160000 +0000" stop="20260820170000 +0000" channel="airy-607">
     <title>Love Boat 107</title>
     <desc>Love Boat 107</desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-607">
+    <title>Daktari 228</title>
+    <desc>Daktari 228</desc>
   </programme>
   <channel id="airy-631">
     <display-name>Best of Times</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820100000 +0000" channel="airy-631">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-631">
     <title>The Hanging Tree</title>
     <desc>Joseph a doctor keeps dominating peoples lives He frees a robber Rune from getting hanged; and forces his charge on him too as compensation Things change when Elizabeth enters Josephs life</desc>
   </programme>
@@ -80,11 +80,19 @@
     <title>TBH 205</title>
     <desc>TBH 205</desc>
   </programme>
+  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="airy-631">
+    <title>TBH 134</title>
+    <desc>TBH 134</desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-631">
+    <title>Munsters 232</title>
+    <desc>Munsters 232</desc>
+  </programme>
   <channel id="airy-605">
     <display-name>Shattered TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820100000 +0000" channel="airy-605">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-605">
     <title>City of the Living Dead</title>
     <desc>A psychic and a journalist head to Dunvich to prevent an apocalypse after a priest commits suicide in a cemetery somehow causing the gates of hell to open and allowing the dead to rise</desc>
   </programme>
@@ -124,7 +132,7 @@
     <title>Friday the 13th The Series</title>
     <desc>Micki Ryan and Jack must track down an evil statue that causes men to kill the women they love</desc>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820163000 +0000" channel="airy-605">
+  <programme start="20260820160000 +0000" stop="20260820173000 +0000" channel="airy-605">
     <title>The Strange and Deadly Occurance</title>
     <desc>Something or someone haunts a couples Robert Stack Vera Miles new home in the country</desc>
   </programme>
@@ -132,14 +140,6 @@
     <display-name>TTL TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-632">
-    <title>McHales Navy</title>
-    <desc>Virgil loses the 73 and McHale and The Crew must arrange for a replacement before they can take a weeks RR trip to New Caledonia</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820093000 +0000" channel="airy-632">
-    <title>Gomer Pyle USMC</title>
-    <desc>After tipping his hat instead of saluting female Captain Iron Pants Martin Gomer is assigned special detail in her office to teach him a lesson But it turns out that he is the teacher instead of the student as he reminds her that she is more then just a Marine</desc>
-  </programme>
   <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-632">
     <title>Gomer Pyle USMC</title>
     <desc>A trouble maker transfers into the platoon and decides to make Pyle his patsy Gomer tries to handle it with understanding and kindness - but soon learns that bullies need to be stood up against</desc>
@@ -192,18 +192,18 @@
     <title>McHales Navy </title>
     <desc>McHale and The 73 Crew avert an attack on a Navy convoy by employing a clever plan involving John Wayne Humphrey Bogart and Errol Flynn</desc>
   </programme>
+  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="airy-632">
+    <title>McHales Navy </title>
+    <desc>McHale Molly and The 73 Crew must practice some trickery to keep Binghamton at bay while they arrange for an against-the-rules wedding for Christy and his fiancee - Lieutenant Gloria Winters</desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-632">
+    <title>Gomer Pyle USMC</title>
+    <desc>After being bawled out by Sgt Carter for not working hard enough Gomer decides not accept his pay for that week which causes all sorts of troubles for Sgt Carter</desc>
+  </programme>
   <channel id="airy-612">
     <display-name>PassTime TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-612">
-    <title>The Mad Bomber</title>
-    <desc>The Police Connection aka The Mad Bomber aka Detective Geronimo </desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820093000 +0000" channel="airy-612">
-    <title>Bullwinkle </title>
-    <desc>Bullwinkle </desc>
-  </programme>
   <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-612">
     <title>Bullwinkle </title>
     <desc>Bullwinkle </desc>
@@ -240,11 +240,19 @@
     <title>WKRP 213</title>
     <desc>WKRP 213</desc>
   </programme>
+  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="airy-612">
+    <title>WKRP 112</title>
+    <desc>WKRP 112</desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-612">
+    <title>Evening Shade</title>
+    <desc>Not everyone thinks imitation is the greatest form of flattery when Taylor writes a play about the people of Evening Shade</desc>
+  </programme>
   <channel id="airy-649">
     <display-name>RnR TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820100000 +0000" channel="airy-649">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-649">
     <title>Escape Planet of the Apes </title>
     <desc>Three apes travel back in time after Earths destruction and land on earth in the 70s They acquire celebrity status after revealing that they can talk but things take a turn for the worse soon</desc>
   </programme>
@@ -276,7 +284,7 @@
     <title>Space 1999</title>
     <desc>On the ice world of Ultima Thule the Alphans encounter members of lost earth expedition who have achieved immortality- but at a price!</desc>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820163000 +0000" channel="airy-649">
+  <programme start="20260820160000 +0000" stop="20260820173000 +0000" channel="airy-649">
     <title> Gamera Vs Barugon War Of The Monsters </title>
     <desc>After a treacherous expedition to retrieve a giant opal disaster strikes as the opal reveals itself to be an egg which spawns Barugon demon dog from Hell! Armed with a deadly tongue and cold beams Barugon wreaks havoc on Japan Gamera comes to save the day</desc>
   </programme>
@@ -284,11 +292,7 @@
     <display-name>The Canyon</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-651">
-    <title>BIg Valley</title>
-    <desc>The Barkleys prepare for the unveiling of a statue dedicated to family patriarch Tom prompting Victoria to visit Heaths birthplace and learn about Toms secret past</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="airy-651">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-651">
     <title>Cheyenne</title>
     <desc>The ArgonautsCheyenne meets two prospectors whose partner was killed by Indians The partner is the only one who knows where they found gold Given a description Cheyenne is able to lead them to the gold but one of the mens greed overtakes him</desc>
   </programme>
@@ -320,19 +324,19 @@
     <title>The Fugitive </title>
     <desc>An immigrant cigar makers son is accosted by neighborhood bullies and calls the police to put a stop to the harassment The only witness to the incident is Dr Kimble whose face seems oddly familiar to the officers</desc>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820163000 +0000" channel="airy-651">
+  <programme start="20260820160000 +0000" stop="20260820170000 +0000" channel="airy-651">
     <title>Big Valley</title>
     <desc>A handsome stranger saves Audras life during a horse stampede and she quickly becomes attached to him unaware of his involvement in a series of robberies in the Valley</desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-651">
+    <title>Cheyenne</title>
+    <desc>After a close friend of Cheyenne is killed during the escape of bank robbers Cheyenne and Smitty track the band of outlaws across the border to a small Mexican village The band has taken over the town after killing 14 young men there</desc>
   </programme>
   <channel id="airy-549">
     <display-name>30A TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-549">
-    <title>What to See and Do</title>
-    <desc>Seagrove Beach on 30A The rent is too high Beachbilly Lifestyle  ALLIGATOR GAR fishing rodeo   Madisonville Destin Harbor Boardwalk, where the city of Destin st"</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="airy-549">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-549">
     <title>Music Scene</title>
     <desc>I will sing hallelujah late at night when Im all alone Livin on 30A Song by Songwriter Kevin Carson God And A Job - Tammy urban rock, surviving souls, nave, mer"</desc>
   </programme>
@@ -340,10 +344,6 @@
     <display-name>Thailand TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820093000 +0000" channel="airy-536">
-    <title>Hockey Night in Thailand  018 Air Reel JAN 12 202 Game 2</title>
-    <desc>Hockey Night in Thailand  018 Air Reel JAN 12 202 Game 2</desc>
-  </programme>
   <programme start="20260820093000 +0000" stop="20260820103000 +0000" channel="airy-536">
     <title>Hockey Night in Thailand  004 Air Reel Nov142019 Game 2</title>
     <desc>Hockey Night in Thailand  004 Air Reel Nov142019 Game 2</desc>
@@ -372,15 +372,19 @@
     <title>Lets Go Thailand The Bar Music Scene Ep 017</title>
     <desc>Lets Go Thailand The Bar Music Scene Ep 017</desc>
   </programme>
+  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="airy-536">
+    <title>Lets Go Thailand Sights and Sounds Ep 003</title>
+    <desc>Lets Go Thailand Sights and Sounds Ep 003</desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-536">
+    <title>Lets Go Thailand Welcome to Thailand Ep 001</title>
+    <desc>Lets Go Thailand Welcome to Thailand Ep 001</desc>
+  </programme>
   <channel id="airy-606">
     <display-name>Cinema Star</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-606">
-    <title>Night of the Demons</title>
-    <desc>Night of the Demons is a 1988 American supernatural horror film directed by Kevin S Tenney written and produced by Joe Augustyn and starring Amelia Kinkade Cathy Podewell Linnea Quigley Hal Havins and Alvin Alexis</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820110000 +0000" channel="airy-606">
+  <programme start="20260820093000 +0000" stop="20260820110000 +0000" channel="airy-606">
     <title>House II  The Second Story</title>
     <desc>A man Arye Gross and his friend Jonathan Stark exhume an ancestor Royal Dano in the house where his parents were killed</desc>
   </programme>
@@ -397,15 +401,15 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Prodigal Boxer 2</title>
     <desc>Prodigal Boxer 2</desc>
   </programme>
+  <programme start="20260820163000 +0000" stop="20260820173000 +0000" channel="airy-606">
+    <title>Snake In The Eagles Shadow</title>
+    <desc>Snake In The Eagles Shadow</desc>
+  </programme>
   <channel id="airy-629">
     <display-name>Big Cinema</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-629">
-    <title>The Octagon</title>
-    <desc>A martial artist must defeat a plan by ninjas to create a worldwide training camp for terrorists</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820110000 +0000" channel="airy-629">
+  <programme start="20260820093000 +0000" stop="20260820110000 +0000" channel="airy-629">
     <title>Convoy</title>
     <desc>Truckers form a mile-long convoy in support of a truckers vendetta with an abusive sheriff - Based on the country song of the same title by CW McCall</desc>
   </programme>
@@ -421,7 +425,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Filler</title>
     <desc>Filler</desc>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820163000 +0000" channel="airy-629">
+  <programme start="20260820160000 +0000" stop="20260820173000 +0000" channel="airy-629">
     <title>Brotherhood of Justice</title>
     <desc>Keanu Reeves Kiefer Sutherland and Billy Zane star as high-school students who start a vigilante group to combat crime in their neighborhood</desc>
   </programme>
@@ -429,7 +433,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>Moviezone</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820100000 +0000" channel="airy-625">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-625">
     <title>City of the Living Dead</title>
     <desc>A psychic and a journalist head to Dunvich to prevent an apocalypse after a priest commits suicide in a cemetery somehow causing the gates of hell to open and allowing the dead to rise</desc>
   </programme>
@@ -469,7 +473,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Friday the 13th The Series</title>
     <desc>Micki Ryan and Jack must track down an evil statue that causes men to kill the women they love</desc>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820163000 +0000" channel="airy-625">
+  <programme start="20260820160000 +0000" stop="20260820173000 +0000" channel="airy-625">
     <title>The Strange and Deadly Occurance</title>
     <desc>Something or someone haunts a couples Robert Stack Vera Miles new home in the country</desc>
   </programme>
@@ -477,7 +481,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>Scare O Ween</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820100000 +0000" channel="airy-650">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-650">
     <title>The Strange and Deadly Occurance</title>
     <desc>Something or someone haunts a couples Robert Stack Vera Miles new home in the country</desc>
   </programme>
@@ -497,15 +501,15 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Wes Cravens Night Visions</title>
     <desc>A cop teams up with a psychic to track down a serial killer</desc>
   </programme>
+  <programme start="20260820163000 +0000" stop="20260820173000 +0000" channel="airy-650">
+    <title>Jaws of Satan</title>
+    <desc>A preacher whose ancestors were cursed by Druids battles Satan who has taken the form of a huge snake</desc>
+  </programme>
   <channel id="airy-405">
     <display-name>Fishing Offshore</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-405">
-    <title>Darcizzle</title>
-    <desc>Girl Fishing Tiny Baits in Saltwater, Hooked a Monster! Inshore Fishing andamp; Exploring a New Area with Subscribers! Our BIGGEST EVER??!  Bridge Fishing for G"</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="airy-405">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-405">
     <title>Darcizzle</title>
     <desc>Fish That Eats POOP! Sucker Face REMORA (Catch Clean Cook) Trash Fish Taste Test! SHEEPSHEAD (Catch Clean Cook) Crunchy Fish Tacos! POOR MAN'S LOBSTER CAN CRUSH"</desc>
   </programme>
@@ -513,19 +517,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>Hard Knocks</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820091334 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>Hard Knocks 46 continues to bring you some of the best fights in MMA! This episode features the exhilarating amateur matchup of Jiu Jitsu athlete Colton Boxell vs. Boxer Mac Laursen. This is followed by the very entertaining pro contest between the ever explosive Vyron Phillips taking on BJJ Black Belt Leo Xavier.</desc>
-  </programme>
-  <programme start="20260820091334 +0000" stop="20260820091448 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>Alex Martinez v. Cody Purtell</desc>
-  </programme>
-  <programme start="20260820091448 +0000" stop="20260820092535 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>Stephen Whitall v. Jp Shortall</desc>
-  </programme>
-  <programme start="20260820092535 +0000" stop="20260820093225 +0000" channel="airy-443">
+  <programme start="20260820093000 +0000" stop="20260820093225 +0000" channel="airy-443">
     <title>Hard Knocks</title>
     <desc>Rodrigo Damm v. Kultar Singh Gill</desc>
   </programme>
@@ -605,7 +597,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Hard Knocks</title>
     <desc>Antonin Marconi v. Rachid Magmadi</desc>
   </programme>
-  <programme start="20260820162727 +0000" stop="20260820163000 +0000" channel="airy-443">
+  <programme start="20260820162727 +0000" stop="20260820173000 +0000" channel="airy-443">
     <title>Hard Knocks</title>
     <desc>The School of Hard Knocks 21 filmed at the Spectra Place in Estevan. Professional and Amateur fighters from across North America battle it out in the cage. Dillon Adam vs. Andy Jack; Dave Sternberg vs. Jordan McDonald; Matt Zemlak vs. David Swanson.</desc>
   </programme>
@@ -613,11 +605,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>The Sherard Show</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-505">
-    <title>The Shy Money Interview</title>
-    <desc>Meet the young boxer who feels hes the best ever at only 18 yrs old</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="airy-505">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-505">
     <title>The April Taylor Interview</title>
     <desc>Join me as I sit down with the lady whose upcoming celebrity tell all book will blow your mind Meet the lovely Ms April Taylor</desc>
   </programme>
@@ -641,11 +629,15 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>The Jaxx Kellerman Interview</title>
     <desc>Meet this young lady who writes and performs with a real chip on her shoulder Jaxx Kellerman on the Sherard Show</desc>
   </programme>
+  <programme start="20260820163000 +0000" stop="20260820173000 +0000" channel="airy-505">
+    <title>The Harold Vann II Interview</title>
+    <desc>Hear the riveting story of a preacher whose promiscuous life almost destroyed him</desc>
+  </programme>
   <channel id="airy-585">
     <display-name>Nashville Country TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820100000 +0000" channel="airy-585">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-585">
     <title>Country Music</title>
     <desc>Country Music Video Mix</desc>
   </programme>
@@ -665,26 +657,14 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Country Music</title>
     <desc>Country Music Videos</desc>
   </programme>
+  <programme start="20260820163000 +0000" stop="20260820173000 +0000" channel="airy-585">
+    <title>Country Music</title>
+    <desc>All Country Music</desc>
+  </programme>
   <channel id="airy-556">
     <display-name>My Jam Music TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-556">
-    <title>Peace Day Performance Version 20</title>
-    <desc>Peace Day Performance Version 20</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820090312 +0000" channel="airy-556">
-    <title>YEAR OF THE SQRAT ATTACK</title>
-    <desc>YEAR OF THE SQRAT ATTACK</desc>
-  </programme>
-  <programme start="20260820090312 +0000" stop="20260820090705 +0000" channel="airy-556">
-    <title>My Tears Grew Roses  The Official Music Video</title>
-    <desc>My Tears Grew Roses  The Official Music Video</desc>
-  </programme>
-  <programme start="20260820090705 +0000" stop="20260820093000 +0000" channel="airy-556">
-    <title>Kerry Kenny Band - Pining Time Remix Official Music Video</title>
-    <desc>Kerry Kenny Band - Pining Time Remix Official Music Video</desc>
-  </programme>
   <programme start="20260820093000 +0000" stop="20260820110000 +0000" channel="airy-556">
     <title>Peace Day Performance Version 20</title>
     <desc>Peace Day Performance Version 20</desc>
@@ -725,7 +705,11 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Body</title>
     <desc>Body</desc>
   </programme>
-  <programme start="20260820153000 +0000" stop="20260820163000 +0000" channel="airy-556">
+  <programme start="20260820153000 +0000" stop="20260820170000 +0000" channel="airy-556">
+    <title>Peace Day Performance Version 20</title>
+    <desc>Peace Day Performance Version 20</desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-556">
     <title>Peace Day Performance Version 20</title>
     <desc>Peace Day Performance Version 20</desc>
   </programme>
@@ -733,11 +717,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>Sidewalks TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-550">
-    <title>Sidewalks Interviews</title>
-    <desc>: DeRay Davis (2019) : Jimmy McCracklin : David Alan Grier : Aloe Blacc : Hannah Waddingham : Rob Riggle"</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="airy-550">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-550">
     <title>Sidewalks Interviews</title>
     <desc>: Tamara Tunie : BD Wong : Amy Landecker (2021) : Amy Landecker : Jack Coleman"</desc>
   </programme>
@@ -745,11 +725,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>The Beach Show</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-551">
-    <title>Beachy-Beach</title>
-    <desc>Southwind Condo Living in Panama City Beach andamp;amp; Beyond! Panama City Beach off North Lagoon Palm Grove Living in Panama City Beach  Beyond! PCB West EndL"</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="airy-551">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-551">
     <title>Beachy-Beach</title>
     <desc>Colony ClubLiving in Panama City Beach andamp;amp; Beyond! Gulf Front Condo Rosemary Beach Living in Panama City Beach andamp; Beyond! beachshow-xS_N9gt7Nno] Be"</desc>
   </programme>
@@ -757,15 +733,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>Now Media Spanish</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820083104 +0000" channel="airy-656">
-    <title>BEE MIRACLE</title>
-    <desc>BEE MIRACLE</desc>
-  </programme>
-  <programme start="20260820083104 +0000" stop="20260820090107 +0000" channel="airy-656">
-    <title>SPANISH TAX HELP LONG FORM</title>
-    <desc>SPANISH TAX HELP LONG FORM</desc>
-  </programme>
-  <programme start="20260820090107 +0000" stop="20260820093104 +0000" channel="airy-656">
+  <programme start="20260820093000 +0000" stop="20260820093104 +0000" channel="airy-656">
     <title>VUELOYMAS LONG FORM</title>
     <desc>VUELOYMAS LONG FORM</desc>
   </programme>
@@ -793,22 +761,18 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>SERGIO Y LUPITA </title>
     <desc>Sergio y Lupita la única pareja que te informa de forma veraz oportuna con un toque personal y humano</desc>
   </programme>
-  <programme start="20260820150106 +0000" stop="20260820163000 +0000" channel="airy-656">
+  <programme start="20260820150106 +0000" stop="20260820170106 +0000" channel="airy-656">
     <title>EL MACANAZO</title>
     <desc>EL MACANAZO</desc>
+  </programme>
+  <programme start="20260820170106 +0000" stop="20260820173000 +0000" channel="airy-656">
+    <title>ENTORNO AL DINERO</title>
+    <desc>ENTORNO AL DINERO</desc>
   </programme>
   <channel id="airy-657">
     <display-name>Now Media English</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-657">
-    <title>CAR SHIELD All Stars V5</title>
-    <desc>CAR SHIELD All Stars V5</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820093000 +0000" channel="airy-657">
-    <title>GET HELP NOW</title>
-    <desc>GET HELP NOW</desc>
-  </programme>
   <programme start="20260820093000 +0000" stop="20260820095959 +0000" channel="airy-657">
     <title>Time Share Exit LF</title>
     <desc>Time Share Exit LF</desc>
@@ -829,19 +793,19 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>THE GAME CHANGER UNLOCKED</title>
     <desc>THE GAME CHANGER UNLOCKED</desc>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820163000 +0000" channel="airy-657">
+  <programme start="20260820160000 +0000" stop="20260820170000 +0000" channel="airy-657">
     <title>Go Higher Paula Zohav 7 30 26</title>
     <desc>Go Higher Paula Zohav 7 30 26</desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-657">
+    <title>The Authority Playbook Kiersten Crum 7 30 26</title>
+    <desc>The Authority Playbook Kiersten Crum 7 30 26</desc>
   </programme>
   <channel id="airy-552">
     <display-name>Georgia Hollywood Review TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-552">
-    <title>Georgia Hollywood Review</title>
-    <desc>Thursday Night Live Red Carpet Show 12-02-21 Cas Sigers Beedles - Georgia Hollywood Review TV"</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="airy-552">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-552">
     <title>Georgia Hollywood Review</title>
     <desc>SUNDANCE Film Festival 2020 - Red Carpet Series Miles Neiman - Georgia Film Fund Initiative - Georgia Hollywood Review TV Len Gibson - Georgia Hollywood Review "</desc>
   </programme>
@@ -849,7 +813,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>GodTV Weathernation</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820163000 +0000" channel="airy-659">
+  <programme start="20260820093000 +0000" stop="20260820173000 +0000" channel="airy-659">
     <title>Filler</title>
     <desc>Filler</desc>
   </programme>
@@ -857,14 +821,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>Kids Net</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-633">
-    <title>Inspector Gadget</title>
-    <desc>Quimby suspects that MAD may try to use a powerful sneezing weapon against Metro City</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820093000 +0000" channel="airy-633">
-    <title>Challenge of the GoBots</title>
-    <desc>Leader-1 is shot by Crasher while attempting to destroy Cy-Kills pulsar generator</desc>
-  </programme>
   <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-633">
     <title>Challenge of the GoBots</title>
     <desc>Scooter and Turbo struggle to free Matt Nick and AJ from the pulsar generators spell</desc>
@@ -921,18 +877,18 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Inspector Gadget</title>
     <desc>MAD agents try to convince Gadget that he can replace the King of Pianostan</desc>
   </programme>
+  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="airy-633">
+    <title>Inspector Gadget</title>
+    <desc>Pirate Island </desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-633">
+    <title>Challenge of the GoBots</title>
+    <desc>The destabilized energy crystal has an unexpected effect on the struggle between good and evil on Gobotron</desc>
+  </programme>
   <channel id="airy-658">
     <display-name>Test</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-658">
-    <title>Hari 108</title>
-    <desc>Hari 108</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820093000 +0000" channel="airy-658">
-    <title>Hair Bear Bunch</title>
-    <desc>Hair Bear Bunch</desc>
-  </programme>
   <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-658">
     <title>Hair Bear Bunch</title>
     <desc>Hair Bear Bunch</desc>
@@ -989,18 +945,18 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Hair Bear Bunch</title>
     <desc>Hair Bear Bunch</desc>
   </programme>
+  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="airy-658">
+    <title>Hari 108</title>
+    <desc>Hari 108</desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-658">
+    <title>Hair Bear Bunch</title>
+    <desc>Hair Bear Bunch</desc>
+  </programme>
   <channel id="airy-655">
     <display-name>Cowboy Christian Network</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-655">
-    <title>“Know your potential to fulfill your vision” We have what it takes! Part 1</title>
-    <desc>“Know your potential to fulfill your vision” We have what it takes! Part 1</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820093000 +0000" channel="airy-655">
-    <title>“Immersed and Emerged” Part 1</title>
-    <desc>“Immersed and Emerged” Part 1</desc>
-  </programme>
   <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-655">
     <title>Developing Faith for the Vision part 2</title>
     <desc>Developing Faith for the Vision part 2</desc>
@@ -1045,53 +1001,19 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Kenney Store Live Bullseye TV Bri Bagwell pt 2</title>
     <desc>Kenney Store Live Bullseye TV Bri Bagwell pt 2</desc>
   </programme>
+  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="airy-655">
+    <title>FANS0810</title>
+    <desc>FANS0810</desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-655">
+    <title>FANS0805</title>
+    <desc>FANS0805</desc>
+  </programme>
   <channel id="airy-660">
     <display-name>FaithNFreedomTV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260820083000 +0000" stop="20260820090000 +0000" channel="airy-660">
-    <title>Authority in Christ Bible Study Guide Day 2 Authority to Bind and Loose</title>
-    <desc>blessed2teachcombible
-
-Prayer Guide Day 2
-I will use the authority Christ has given me to bindforbid and to allowloose through my prayers 
-Matthew 1818  Truly I say to you whatever you bind on earth shall be bound in heaven and whatever you loose on earth shall be loosed in heaven
-Father  I bind the rulers and authorities and powers of this dark world trying to take your children off their paths and I loose angels of all rankings and divisions to help us stay on our path In the name of Jesus Amen
-
-Context
-In Matthew 1818 Jesus gives us the authority to bind and loose on earth and it will be done in heaven Let’s explore the meaning of these terms
-Bind = ForbidDisallow
-Loosing = PermitAllow
-These terms were used by Jewish scribes to forbid or permit items when interpreting scripture 
-To better understand the meaning of this authority we will discuss Matthew 1810-20 where Jesus starts with a parable Jesus emphasizes the value of each individual particularly the vulnerable and illustrates Gods care through parables of angels and lost sheep 
-Angels in Heaven Jesus highlights that the angels of children always have direct access to God indicating their special protection and value  Other scriptures talk about us have specific angels assigned to us
-Acts 1214-15 Recognizing Peters voice in her joy she did not open the gate but ran in and reported that Peter was standing at the gate They said to her “You are out of your mind” But she kept insisting that it was so and they kept saying “It is his angel!”
-httpswwwbiblegatewaycompassagesearch=Acts20123A14-15version=ESV
-Notice “his angel” confirming they believed Peter had an angel assigned to him
-Parable of the Lost Sheep He uses the analogy of a shepherd leaving 99 sheep to find one thats lost showcasing the joy and dedication to retrieving the one who has gone astray
-God’s Will God does not desire any of these little ones to be lost emphasizing divine love and care for each individual
-God deeply cares for everyone especially those who are at risk or in need It shows that God is overjoyed when someone who has strayed comes back highlighting the value of redemption and return 
-Jesus then outlines a process for resolving personal conflicts with steps to hopefully result in this redemption and return of the sinner 
-Private Discussion First address the issue directly with the person who wronged you aiming for reconciliation This is vital and likely will be very healthy for any Christian community as conflicts are often resolved quickly without escalation
-Witnesses If they dont listen involve one or two others to mediate and confirm the situation  Most would consider these neutral witnesses with Godly wisdom not an advocate Jesus continues the requirements from the law established in Deuteronomy
-Deuteronomy 1915 A single witness shall not suffice against a person for any crime or for any wrong in connection with any offense that he has committed Only on the evidence of two witnesses or of three witnesses shall a charge be established httpswwwbiblegatewaycompassagesearch=Deuteronomy20193A15version=ESV
-All the more reason for neutral witnesses as often the accuser is misunderstanding or even the one in sin
-Involve the Church If they still dont listen bring the matter before the church community for resolution  Jesus wants transparency not hiding conflicts
-Final Action If they refuse to heed the churchs advice treat them as outsiders akin to how Gentiles or tax collectors were treated in that era This would indicate a form of separation or excommunication 
-This approach prioritizes personal reconciliation but provides for community involvement if necessary  
-Next Jesus teaches that actions taken on earth have spiritual consequences in heaven and communal agreement in prayer has power
-Binding and Loosing Actions to bind or loose on earth will correspondingly affect heaven
-Matthew 1618-19 And I tell you you are Peter and on this rock I will build my church and the gates of hell shall not prevail against it I will give you the keys of the kingdom of heaven and whatever you bind on earth shall be bound in heaven and whatever you loose on earth shall be loosed in heaven”
-httpswwwbiblegatewaycompassagesearch=Matthew20163A18-19version=ESV
-Agreement in Prayer If two people agree on something in prayer their request will be granted by God
-Presence in Gathering Jesus promises His presence among even the smallest gatherings in His name
-Think about that  If we bind or loose here on earth it will be done in heaven if we come together in prayer his presence is with us and if we come to agreement in prayer the Father hears us  That is authority!  Our authority in Christ is great so let’s take advantage of it!
-
-Matthew 1810-20
-Read the full context of God’s word here
-httpswwwbiblegatewaycompassage</desc>
-  </programme>
-  <programme start="20260820090000 +0000" stop="20260820100000 +0000" channel="airy-660">
+  <programme start="20260820093000 +0000" stop="20260820100000 +0000" channel="airy-660">
     <title> The Verse In The Quran That Started a War With America</title>
     <desc>The Quran verse that justified enslaving 700 American sailors and the war it triggered just years after the Revolution In this episode historian Bill Federer reveals the forgotten story of the Barbary pirates a demand rooted in Islamic scripture a 20 tribute tax that drained the US federal budget and the American sailors who spent years chained in the dungeons of Algiers Tunis and Tripoli</desc>
   </programme>
@@ -1132,5 +1054,16 @@ Watch this powerful discussion on faith suffering purpose and the lasting impact
     <desc>On the V of T 26 we will be giving condolences to our cohost Barb whose dad just passed this week We will talk to Rick the founder of Faith N Freedom TV-its 24 hours a day and Rick will share his testimony!! We will also be looking at inspiring stories for the week!! Join us!!
 You can find Rick
 httpsfaithnfreedomtv</desc>
+  </programme>
+  <programme start="20260820163000 +0000" stop="20260820170000 +0000" channel="airy-660">
+    <title>Dr Scott Young -  Exploding Car Prices Why a System Bankruptcy might be coming and why it is OK</title>
+    <desc>Dr Scott Young -  Exploding Car Prices Why a System Bankruptcy might be coming and why it is OK</desc>
+  </programme>
+  <programme start="20260820170000 +0000" stop="20260820173000 +0000" channel="airy-660">
+    <title>Healing For The Fractured Soul   -  How Not to Be Bound TO Or Controlled BY Your Emotions</title>
+    <desc>God gave us emotions for a purpose but sometimes instead of our emotions being helpful they start to rule us control us and dictate our every move The same God Who gave us those emotions has given us a way to use them to our advantage; we just have to unlock the keys Tonight we will unlock the mystery between real and fake emotions so you can get your mind  will back Freedom is yours and were going to go get it!  Read More httpswwwresistancechickscomhealing-for-the-fractured-soul-68
+The Calendars are HERE! Order YOUR Homesteaders Almanac TODAY!!!! 
+The Resistance Chicks General Store has all-natural hand-made personal health care products right here from Gods Little Acre! Visit ShopResistanceChickscom 
+Use promocode B2T at the checkout to save 10!</desc>
   </programme>
 </tv>
