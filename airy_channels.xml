@@ -4,7 +4,7 @@
     <display-name>Peak TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822090000 +0000" channel="airy-607">
+  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-607">
     <title>The Adventures of Young Indiana Jones Espionage Escapades</title>
     <desc>May 1917 Sixteen year old Indiana Jones joins an international trio of spies plotting against their German counterparts in the neutral city of Barcelona After his old acquaintance Pablo Picasso helps him get a job at Sergei Diaghilevs Ballets Russes Indy devices a plan to forge a love letter written by the German cultural attaché to make it seem he is having an affair with the Countess of Toledo In August of the same year Indiana is reassigned to Prague where he is to receive an important phone call Unfortunately his hotel room proves to be unequipped with a phone Indy heads for the Ministery of Telephones where he learns that having to confront Czech bureaucracy can be quite a trial</desc>
   </programme>
@@ -48,15 +48,19 @@
     <title>The Mystery of the Hooded Horsemen</title>
     <desc>In a small frontier mining town a gang of outlaws in black hoods is running roughshod over locals presiding over a reign of terror Tex Tex Ritter and Stubby Horace Murphy take up the dying wish of Tom Lafe McKee a kindly rancher killed by the gang to capture the marauders Knowing that the survival of the local mine and the heart of Toms sweet daughter Iris Meredith are on the line Tex and Stubby go undercover in the gang hoping to bring them down from the inside</desc>
   </programme>
-  <programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="airy-607">
+  <programme start="20260822150000 +0000" stop="20260822160000 +0000" channel="airy-607">
     <title>Days of Jesse James</title>
     <desc>A bank robbery pulled off by the bank officials not the usual James gang</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-607">
+    <title>Meatballs</title>
+    <desc>Wacky hijinks of counselors and campers at a less-than-average summer camp</desc>
   </programme>
   <channel id="airy-631">
     <display-name>Best of Times</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822090000 +0000" channel="airy-631">
+  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-631">
     <title>Shaolin Super Dragon</title>
     <desc>Shaolin Super Dragon</desc>
   </programme>
@@ -88,15 +92,19 @@
     <title>The Great Grape Ape </title>
     <desc>The Great Grape Ape </desc>
   </programme>
+  <programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="airy-631">
+    <title>Hair Bear Bunch</title>
+    <desc>The Hair Bears introduce Peevly to an imaginary 10-foot rabbit named Arnie to convince him that he is overworked and needs a vacation</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-631">
+    <title>Hong 114</title>
+    <desc>Hong 114</desc>
+  </programme>
   <channel id="airy-605">
     <display-name>Shattered TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-605">
-    <title>Friday the 13th The Series </title>
-    <desc>Micki and Ryan investigate the murder of a gym owner and realize that a mysterious pair of boxing gloves may be to blame</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822100000 +0000" channel="airy-605">
+  <programme start="20260822083000 +0000" stop="20260822100000 +0000" channel="airy-605">
     <title>Demons</title>
     <desc>A group of random people are invited to a screening of a mysterious movie only to find themselves trapped in the theater with ravenous demons</desc>
   </programme>
@@ -128,22 +136,18 @@
     <title>Forever Knight </title>
     <desc>A pop radio psychiatrist is horrified because one of her call-in listeners commits murder while she is on the air and Nick helps her get her confidence back</desc>
   </programme>
-  <programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="airy-605">
+  <programme start="20260822150000 +0000" stop="20260822160000 +0000" channel="airy-605">
     <title>Friday 13th the Series </title>
     <desc>Ryan and Micki search for a cursed mulcher which is the murder weapon of choice for a gardeners assistant</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-605">
+    <title>What Waits Below</title>
+    <desc>An army experiment in submarine communications falls foul of the deadly secret hidden deep within the cave system housing their transmitter</desc>
   </programme>
   <channel id="airy-632">
     <display-name>TTL TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-632">
-    <title>Hogans  Heroes</title>
-    <desc>Sergeant Schultz impersonates Klink in a scheme to get some of his men free from the Gestapo</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822083000 +0000" channel="airy-632">
-    <title>McHales Navy </title>
-    <desc>Gruber has been selling Fujis Polynesian dishes to the Taratupa personnel and trouble develops when Binghamton - Having sampled the delicious food - Insists that it be served at a dinner for a visiting Admiral</desc>
-  </programme>
   <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-632">
     <title>McHales Navy </title>
     <desc>Under the impression that Parker is an Ace Gunner Binghamton wagers one of his most prized possessions that Parker can out-shoot an arrogant Captains best gunner</desc>
@@ -196,11 +200,19 @@
     <title>Hogans Heroes</title>
     <desc>To get an Italian officer to defect the Heroes use pizza to tempt him</desc>
   </programme>
+  <programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="airy-632">
+    <title>Hogans Heroes</title>
+    <desc>Hogan has a mission to move a mobile anti-aircraft artillery battery but Klinks new tough second-in-command is impeding the Heroes</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-632">
+    <title>McHales Navy </title>
+    <desc>A lovely French girl agrees to help the guys out in a plan to raise expense money for the birth of Christys child</desc>
+  </programme>
   <channel id="airy-612">
     <display-name>PassTime TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822090000 +0000" channel="airy-612">
+  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-612">
     <title>The Running Man</title>
     <desc>An Englishman with a grudge against an insurance company for a disallowed claim fakes his own death but is soon pursued by an insurance investigator</desc>
   </programme>
@@ -232,19 +244,19 @@
     <title>The Hitman </title>
     <desc>A Cop goes undercover as a Hitman to bring down a criminal organization</desc>
   </programme>
-  <programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="airy-612">
+  <programme start="20260822150000 +0000" stop="20260822160000 +0000" channel="airy-612">
     <title>The Love Boat </title>
     <desc>Conclusion At their high-school reunion Julie and her former boyfriend find theyll still attracted to each other</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-612">
+    <title>WKRP 116</title>
+    <desc>WKRP 116</desc>
   </programme>
   <channel id="airy-649">
     <display-name>RnR TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-649">
-    <title>Space 1999</title>
-    <desc>The moon is approaching a black hole Professor Bergman is a able to rig up an energy shield around the moonbase but Commander Koenig feels this is only a desperate measure and has an eagle with six personnel dispatched as the rest of the moonbase await certain death</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822100000 +0000" channel="airy-649">
+  <programme start="20260822083000 +0000" stop="20260822100000 +0000" channel="airy-649">
     <title>Fright Night 2</title>
     <desc>Fright Night Part 2 is a sequel to link=tt0089175] Charley Brewster and the horror host Peter Vincent must face more vampires out for revenge</desc>
   </programme>
@@ -272,19 +284,19 @@
     <title>Swamp Thing</title>
     <desc>What happens when the swamp itself is no longer an ally to Swamp Thing The answers lay with a man called Mephisto</desc>
   </programme>
-  <programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="airy-649">
+  <programme start="20260822150000 +0000" stop="20260822160000 +0000" channel="airy-649">
     <title>Space1999</title>
     <desc>Contact is made with the planet Piri where the main computer created an idyllic life that led to extinction of its population through apathy Now John Koenig must fight to save Alpha as his people fall under the same fate</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-649">
+    <title>King Kong Vs Godzilla</title>
+    <desc>Godzilla a prehistoric monster emerges from hibernation while a pharmaceutical company seeks publicity by bringing in another monster When the two battle it out death and destruction follow</desc>
   </programme>
   <channel id="airy-651">
     <display-name>The Canyon</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-651">
-    <title>The Fugitive S04E02</title>
-    <desc>The Fugitive S04E02</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822090000 +0000" channel="airy-651">
+  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-651">
     <title>Big Valley</title>
     <desc>Heath risks his life and saves a man who is a notorious hired gunman The irony is the killer has a contract to kill Heath put out by a local rancher with a grudge</desc>
   </programme>
@@ -316,21 +328,19 @@
     <title>Dragnet </title>
     <desc>Dragnet </desc>
   </programme>
-  <programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="airy-651">
+  <programme start="20260822150000 +0000" stop="20260822160000 +0000" channel="airy-651">
     <title>The Fugitive</title>
     <desc>The Fugitive</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-651">
+    <title>Big Valley</title>
+    <desc>The once friendly annual rodeo between the Barkley and Morton ranches has become a nasty win-at-all-costs event An ex-slave super cowboy raises the stakes when he agrees to compete for the Barkleys</desc>
   </programme>
   <channel id="airy-549">
     <display-name>30A TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-549">
-    <title>Music Scene</title>
-    <desc>The official music video for Soul Circus Cowboys newest single
-Performed by Soul Circus Cowboys.
-Arranged and Produced by Frank J. Myers for FJM Productions D"</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822090000 +0000" channel="airy-549">
+  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-549">
     <title>What to See and Do</title>
     <desc>Beachbilly Lifestyle and; Road Trip and; Pigeon Forge Gatlinburg Taking The Plunge: First-Time Scuba In Florida Emerald Coast Television Mardi Gras Life on 30A "</desc>
   </programme>
@@ -342,11 +352,7 @@ Arranged and Produced by Frank J. Myers for FJM Productions D"</desc>
     <display-name>Thailand TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-536">
-    <title>Hockey Night in Thailand  007 Air Reel Nov212019 Game 1</title>
-    <desc>Hockey Night in Thailand  007 Air Reel Nov212019 Game 1</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822093000 +0000" channel="airy-536">
+  <programme start="20260822083000 +0000" stop="20260822093000 +0000" channel="airy-536">
     <title>Hockey Night in Thailand  025 Air Reel FEB 232020 Game 1</title>
     <desc>Hockey Night in Thailand  025 Air Reel FEB 232020 Game 1</desc>
   </programme>
@@ -374,11 +380,19 @@ Arranged and Produced by Frank J. Myers for FJM Productions D"</desc>
     <title>Lets Go Thailand Sights and Sounds Ep 012</title>
     <desc>Lets Go Thailand Sights and Sounds Ep 012</desc>
   </programme>
+  <programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="airy-536">
+    <title>Lets Go Thailand SMOKE A Crisis in Northern Thailand The Health Effects and a Solution Ep 027</title>
+    <desc>Lets Go Thailand SMOKE A Crisis in Northern Thailand The Health Effects and a Solution Ep 027</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-536">
+    <title>Lets Go Thailand Return to the RainForest  Thailand 76 Ep 026</title>
+    <desc>Lets Go Thailand Return to the RainForest  Thailand 76 Ep 026</desc>
+  </programme>
   <channel id="airy-606">
     <display-name>Cinema Star</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822090000 +0000" channel="airy-606">
+  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-606">
     <title>Shaolin Super Dragon</title>
     <desc>Shaolin Super Dragon</desc>
   </programme>
@@ -394,7 +408,7 @@ Arranged and Produced by Frank J. Myers for FJM Productions D"</desc>
     <title>Timerider The Adventure of Lyle Swann</title>
     <desc>Motorcycle racer Lyle Swann Fred Ward is cruising through the Mexican desert when he accidentally stumbles into a time-travel experiment and finds himself transported back to the Old West of the 1870s There he encounters an attractive local woman Belinda Bauer and a gang of criminals led by Porter Reese Peter Coyote Lyles motorized bike is impressive in the past -- until it runs out of gas Now Lyle must rely on his wits to take care of business and return to his own time</desc>
   </programme>
-  <programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="airy-606">
+  <programme start="20260822150000 +0000" stop="20260822163000 +0000" channel="airy-606">
     <title>Digital Man</title>
     <desc>An out-of-control robot is inadvertently set loose in a small community and a crack squad of soldiers are sent to hunt it down Gradually the members of the squad begin to suspect that some of them are robots</desc>
   </programme>
@@ -402,7 +416,7 @@ Arranged and Produced by Frank J. Myers for FJM Productions D"</desc>
     <display-name>Big Cinema</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822090000 +0000" channel="airy-629">
+  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-629">
     <title>Hellbound </title>
     <desc>Two Chicago cops Chuck Norris Calvin Levels investigate a murder until they encounter an ancient demon</desc>
   </programme>
@@ -418,15 +432,19 @@ Arranged and Produced by Frank J. Myers for FJM Productions D"</desc>
     <title>The Chinese Connection</title>
     <desc>A young martial arts student returns home for the funeral of his martial arts teacher who died under mysterious circumstances A rival Japanese academy are suspected but there is no proof</desc>
   </programme>
+  <programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="airy-629">
+    <title>Filler</title>
+    <desc>Filler</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-629">
+    <title>Out of the Blue</title>
+    <desc>Bad luck turns to tragedy for an ex-biker Dennis Hopper his drug-addict wife Sharon Farrell and their teenage daughter Linda Manz</desc>
+  </programme>
   <channel id="airy-625">
     <display-name>Moviezone</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-625">
-    <title>Friday the 13th The Series </title>
-    <desc>Micki and Ryan investigate the murder of a gym owner and realize that a mysterious pair of boxing gloves may be to blame</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822100000 +0000" channel="airy-625">
+  <programme start="20260822083000 +0000" stop="20260822100000 +0000" channel="airy-625">
     <title>Demons</title>
     <desc>A group of random people are invited to a screening of a mysterious movie only to find themselves trapped in the theater with ravenous demons</desc>
   </programme>
@@ -458,18 +476,18 @@ Arranged and Produced by Frank J. Myers for FJM Productions D"</desc>
     <title>Forever Knight </title>
     <desc>A pop radio psychiatrist is horrified because one of her call-in listeners commits murder while she is on the air and Nick helps her get her confidence back</desc>
   </programme>
-  <programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="airy-625">
+  <programme start="20260822150000 +0000" stop="20260822160000 +0000" channel="airy-625">
     <title>Friday 13th the Series </title>
     <desc>Ryan and Micki search for a cursed mulcher which is the murder weapon of choice for a gardeners assistant</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-625">
+    <title>What Waits Below</title>
+    <desc>An army experiment in submarine communications falls foul of the deadly secret hidden deep within the cave system housing their transmitter</desc>
   </programme>
   <channel id="airy-650">
     <display-name>Scare O Ween</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822083000 +0000" channel="airy-650">
-    <title>Satans Triangle</title>
-    <desc>A mysterious woman is the sole survivor of a boat wreck caused by a sudden terrible storm off the coast of Florida</desc>
-  </programme>
   <programme start="20260822083000 +0000" stop="20260822103000 +0000" channel="airy-650">
     <title>Demons</title>
     <desc>A group of random people are invited to a screening of a mysterious movie only to find themselves trapped in the theater with ravenous demons</desc>
@@ -482,7 +500,7 @@ Arranged and Produced by Frank J. Myers for FJM Productions D"</desc>
     <title>Cheerleader Camp</title>
     <desc>A cheerleader Betsy Russell her boyfriend Leif Garrett colleagues and a team mascot Lucinda Dickey attend a competition spoiled by murder</desc>
   </programme>
-  <programme start="20260822143000 +0000" stop="20260822153000 +0000" channel="airy-650">
+  <programme start="20260822143000 +0000" stop="20260822163000 +0000" channel="airy-650">
     <title>Day of the Dead</title>
     <desc>
 Trapped in a missile silo a small team of scientists civilians and trigger-happy soldiers battle desperately to ensure the survival of the human race but tension inside the base is reaching breaking-point and the zombies are gathering outside</desc>
@@ -491,11 +509,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>Fishing Offshore</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-405">
-    <title>Darcizzle</title>
-    <desc>Big SHARKS RUIN fishing trip! Topwater Peacock BASS Fishing with Pro Bass Angler Florida Offshore Fishing for Mahi Mahi, Cobia, andamp;amp; Kingfish GoPro Video"</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822090000 +0000" channel="airy-405">
+  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-405">
     <title>Darcizzle</title>
     <desc>UNBELIEVABLE Sushi! Giant Rudderfish Catch andamp;amp; Cook on the Sandbar Unexpected Rare Catch of Our Lifetime! Took Me 34 Years to Catch THESE Fish! Best Flo"</desc>
   </programme>
@@ -507,31 +521,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>Hard Knocks</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822074627 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>The School of Hard Knocks 34 filmed at the Century Casino in Calgary. Professional and Amateur fighters from across North America battle it out in the cage. Zach Snyder vs. Steve Jellicoe; Sergej Juskevic vs. Brandt Dewsberry.</desc>
-  </programme>
-  <programme start="20260822074627 +0000" stop="20260822074826 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
-  </programme>
-  <programme start="20260822074826 +0000" stop="20260822075500 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>Luke Theriault v. Justin Sander</desc>
-  </programme>
-  <programme start="20260822075500 +0000" stop="20260822075557 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
-  </programme>
-  <programme start="20260822075557 +0000" stop="20260822075725 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
-  </programme>
-  <programme start="20260822075725 +0000" stop="20260822075753 +0000" channel="airy-443">
-    <title>Hard Knocks</title>
-    <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
-  </programme>
-  <programme start="20260822075753 +0000" stop="20260822085352 +0000" channel="airy-443">
+  <programme start="20260822083000 +0000" stop="20260822085352 +0000" channel="airy-443">
     <title>Hard Knocks</title>
     <desc>The Premier MMA promotion, Telecast live across the globe Showcasing some of the worlds best MMA athletes.</desc>
   </programme>
@@ -627,18 +617,22 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Hard Knocks</title>
     <desc>Adam Solak v. Yoan Yamaliev</desc>
   </programme>
-  <programme start="20260822152500 +0000" stop="20260822153000 +0000" channel="airy-443">
+  <programme start="20260822152500 +0000" stop="20260822160935 +0000" channel="airy-443">
     <title>Hard Knocks</title>
     <desc>The big dogs go at it, as heavyweight Mario “The Big Hurt” Rinaldi puts his stellar record on the line against the hard-working, hard-fighting and hard-living Mark Burch. Rinaldi has never lost, and Burch has been defeated just one, so neither man will give an inch.</desc>
+  </programme>
+  <programme start="20260822160935 +0000" stop="20260822161002 +0000" channel="airy-443">
+    <title>Hard Knocks</title>
+    <desc>Antonin Marconi v. Rachid Magmadi</desc>
+  </programme>
+  <programme start="20260822161002 +0000" stop="20260822163000 +0000" channel="airy-443">
+    <title>Hard Knocks</title>
+    <desc>Chael Sonnen has trained with Team Quest, alongside fighters like Matt Lindland and Randy Couture. Tim Credeur has kept busy fighting on the US navy jiu-jitsu and judo teams, and making some cash in bullpen fights in Tijuana.</desc>
   </programme>
   <channel id="airy-505">
     <display-name>The Sherard Show</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822083000 +0000" channel="airy-505">
-    <title>The DC Glenn Exclusive Interview</title>
-    <desc>Meet the man who created a 90s anthem that set the trend for Hip Hop Music today</desc>
-  </programme>
   <programme start="20260822083000 +0000" stop="20260822093000 +0000" channel="airy-505">
     <title>The Cynda Williams Interview</title>
     <desc>Meet the lady who became a star in the 1990s hit movie Mo Betta Blues Hear how selling herself out to become rich was and still isnt an option</desc>
@@ -659,7 +653,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>The Jaxx Kellerman Interview</title>
     <desc>Meet this young lady who writes and performs with a real chip on her shoulder Jaxx Kellerman on the Sherard Show</desc>
   </programme>
-  <programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="airy-505">
+  <programme start="20260822150000 +0000" stop="20260822163000 +0000" channel="airy-505">
     <title>The Harold Vann II Interview</title>
     <desc>Hear the riveting story of a preacher whose promiscuous life almost destroyed him</desc>
   </programme>
@@ -667,10 +661,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>Nashville Country TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822083000 +0000" channel="airy-585">
-    <title>Country Music</title>
-    <desc>Country Music Video Mix</desc>
-  </programme>
   <programme start="20260822083000 +0000" stop="20260822093000 +0000" channel="airy-585">
     <title>Country Music</title>
     <desc>Country Music Video Mix</desc>
@@ -691,34 +681,18 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>24 Hour Country Music Videos</title>
     <desc>Country Music Video Mix</desc>
   </programme>
-  <programme start="20260822143000 +0000" stop="20260822153000 +0000" channel="airy-585">
+  <programme start="20260822143000 +0000" stop="20260822160000 +0000" channel="airy-585">
     <title>Country Music</title>
     <desc>All Country Music</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-585">
+    <title>Country Music</title>
+    <desc>Country Music</desc>
   </programme>
   <channel id="airy-556">
     <display-name>My Jam Music TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822073311 +0000" channel="airy-556">
-    <title>YEAR OF THE SQRAT ATTACK</title>
-    <desc>YEAR OF THE SQRAT ATTACK</desc>
-  </programme>
-  <programme start="20260822073311 +0000" stop="20260822080000 +0000" channel="airy-556">
-    <title>BEAUTIFUL WEDDING</title>
-    <desc>BEAUTIFUL WEDDING</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822080503 +0000" channel="airy-556">
-    <title>Ute Lempur the new Mack the Knife</title>
-    <desc>Ute Lempur the new Mack the Knife</desc>
-  </programme>
-  <programme start="20260822080503 +0000" stop="20260822080812 +0000" channel="airy-556">
-    <title>YEAR OF THE SQRAT ATTACK</title>
-    <desc>YEAR OF THE SQRAT ATTACK</desc>
-  </programme>
-  <programme start="20260822080812 +0000" stop="20260822083000 +0000" channel="airy-556">
-    <title>Seems Like Tuesday- Lies and Alibis</title>
-    <desc>Seems Like Tuesday- Lies and Alibis</desc>
-  </programme>
   <programme start="20260822083000 +0000" stop="20260822083255 +0000" channel="airy-556">
     <title>Chameleon</title>
     <desc>Chameleon</desc>
@@ -847,15 +821,75 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Christian Love - Sum Sum Summer</title>
     <desc>Christian Love - Sum Sum Summer</desc>
   </programme>
+  <programme start="20260822153000 +0000" stop="20260822153306 +0000" channel="airy-556">
+    <title>YEAR OF THE SQRAT ATTACK</title>
+    <desc>YEAR OF THE SQRAT ATTACK</desc>
+  </programme>
+  <programme start="20260822153306 +0000" stop="20260822160000 +0000" channel="airy-556">
+    <title>neah_mcmeen-lonely_night</title>
+    <desc>neah_mcmeen-lonely_night</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822160311 +0000" channel="airy-556">
+    <title>YEAR OF THE SQRAT ATTACK</title>
+    <desc>YEAR OF THE SQRAT ATTACK</desc>
+  </programme>
+  <programme start="20260822160311 +0000" stop="20260822160801 +0000" channel="airy-556">
+    <title>BE MY GILR 916</title>
+    <desc>BE MY GILR 916</desc>
+  </programme>
+  <programme start="20260822160801 +0000" stop="20260822161136 +0000" channel="airy-556">
+    <title>Leaving on a Jet Plane 4K Web</title>
+    <desc>Leaving on a Jet Plane 4K Web</desc>
+  </programme>
+  <programme start="20260822161136 +0000" stop="20260822161146 +0000" channel="airy-556">
+    <title>The featured artist is Sean Gr</title>
+    <desc>The featured artist is Sean Gr</desc>
+  </programme>
+  <programme start="20260822161146 +0000" stop="20260822161246 +0000" channel="airy-556">
+    <title>Sean Griffin Live Sizzle Reel Export 2</title>
+    <desc>Sean Griffin Live Sizzle Reel Export 2</desc>
+  </programme>
+  <programme start="20260822161246 +0000" stop="20260822161345 +0000" channel="airy-556">
+    <title>Sean Griffin Live Sizzle Reel</title>
+    <desc>Sean Griffin Live Sizzle Reel</desc>
+  </programme>
+  <programme start="20260822161345 +0000" stop="20260822161457 +0000" channel="airy-556">
+    <title>Black is The Color 4K Web</title>
+    <desc>Black is The Color 4K Web</desc>
+  </programme>
+  <programme start="20260822161457 +0000" stop="20260822161648 +0000" channel="airy-556">
+    <title>Blister in The Sun 4K Web</title>
+    <desc>Blister in The Sun 4K Web</desc>
+  </programme>
+  <programme start="20260822161648 +0000" stop="20260822161856 +0000" channel="airy-556">
+    <title>Rocks Off</title>
+    <desc>Rocks Off</desc>
+  </programme>
+  <programme start="20260822161856 +0000" stop="20260822162113 +0000" channel="airy-556">
+    <title>In My Life 4K Web</title>
+    <desc>In My Life 4K Web</desc>
+  </programme>
+  <programme start="20260822162113 +0000" stop="20260822162332 +0000" channel="airy-556">
+    <title>Covers Sizzle 4K Web Export 2</title>
+    <desc>Covers Sizzle 4K Web Export 2</desc>
+  </programme>
+  <programme start="20260822162332 +0000" stop="20260822162552 +0000" channel="airy-556">
+    <title>Hey Ho 4K Web</title>
+    <desc>Hey Ho 4K Web</desc>
+  </programme>
+  <programme start="20260822162552 +0000" stop="20260822162602 +0000" channel="airy-556">
+    <title>intro</title>
+    <desc>Artist Showcase Featuring Sean Griffin</desc>
+  </programme>
+  <programme start="20260822162602 +0000" stop="20260822163000 +0000" channel="airy-556">
+    <title>I Walk the Line 4K Web</title>
+    <desc>I Walk the Line 4K Web</desc>
+  </programme>
   <channel id="airy-550">
     <display-name>Sidewalks TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-550">
-    <title>Sidewalks Interviews</title>
-    <desc>: Penelope Cruz : Chrisette Michele : A.W. Gryphon (What The F#@- Is Cancer and Why Does Everybody Have It) : Dr Sandra Lee (Dr. Pimple Popper) : Dr Arthur Agat"</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822090000 +0000" channel="airy-550">
+  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-550">
     <title>Sidewalks Interviews</title>
     <desc>: Matt Frewer : Wilmer Valderrama (September 2022) : Piers Morgan : BoA (2008) : The Lockets (Jenny  Ashley) - Part 2 of 3 : Summer Glau (2009)"</desc>
   </programme>
@@ -867,11 +901,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>The Beach Show</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-551">
-    <title>Beachy-Beach</title>
-    <desc>West End of Panama City BeachLiving in Panama City Beach andamp;amp; Beyond! Grand Lagoon WATERFRONTLiving in Panama City Beach andamp;amp; Beyond! Condo For Sa"</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822090000 +0000" channel="airy-551">
+  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-551">
     <title>Beachy-Beach</title>
     <desc>Beach Safety Panama City Beach Flag Warning System  Seychelles Condo Living in Panama City Beach andamp;amp; Beyond! Historic St. Andrews Bay iving in Panama Ci"</desc>
   </programme>
@@ -883,15 +913,7 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>Now Media Spanish</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822073038 +0000" channel="airy-656">
-    <title>SPANISH TAX HELP LONG FORM</title>
-    <desc>SPANISH TAX HELP LONG FORM</desc>
-  </programme>
-  <programme start="20260822073038 +0000" stop="20260822080041 +0000" channel="airy-656">
-    <title>VUELOYMAS LONG FORM</title>
-    <desc>VUELOYMAS LONG FORM</desc>
-  </programme>
-  <programme start="20260822080041 +0000" stop="20260822083038 +0000" channel="airy-656">
+  <programme start="20260822083000 +0000" stop="20260822083038 +0000" channel="airy-656">
     <title>BEE MIRACLE</title>
     <desc>BEE MIRACLE</desc>
   </programme>
@@ -931,22 +953,22 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>INFORMATIVO FIN DE SEMANA</title>
     <desc>Porque la noticia no descansa Alejandro Sánchez nos comparte las noticias del momento los temas de coyuntura y el análisis de lo trascendente en la semana con un toque ligero que el radioescucha del fin de semana consume complementado con opciones de entretenimiento y temas de interés</desc>
   </programme>
-  <programme start="20260822150040 +0000" stop="20260822153000 +0000" channel="airy-656">
+  <programme start="20260822150040 +0000" stop="20260822153038 +0000" channel="airy-656">
     <title>CAFE CENTRAL RUIZ 7 25 26</title>
     <desc>CAFE CENTRAL RUIZ 7 25 26</desc>
+  </programme>
+  <programme start="20260822153038 +0000" stop="20260822160041 +0000" channel="airy-656">
+    <title>CAFE CENTRAL AURA 7 25 26</title>
+    <desc>CAFE CENTRAL AURA 7 25 26</desc>
+  </programme>
+  <programme start="20260822160041 +0000" stop="20260822163000 +0000" channel="airy-656">
+    <title>HEEK 7 18 26</title>
+    <desc>HEEK 7 18 26</desc>
   </programme>
   <channel id="airy-657">
     <display-name>Now Media English</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-657">
-    <title>TAX HELP LF 2016</title>
-    <desc>TAX HELP LF 2016</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822083000 +0000" channel="airy-657">
-    <title>HOME BUYERS airtime</title>
-    <desc>HOME BUYERS airtime</desc>
-  </programme>
   <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-657">
     <title>LOW COST AIR LONG FORM</title>
     <desc>LOW COST AIR LONG FORM</desc>
@@ -975,15 +997,19 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>TAX HELP LF 2016</title>
     <desc>TAX HELP LF 2016</desc>
   </programme>
+  <programme start="20260822153000 +0000" stop="20260822160030 +0000" channel="airy-657">
+    <title>HOME BUYERS airtime</title>
+    <desc>HOME BUYERS airtime</desc>
+  </programme>
+  <programme start="20260822160030 +0000" stop="20260822163000 +0000" channel="airy-657">
+    <title>LOW COST AIR LONG FORM</title>
+    <desc>LOW COST AIR LONG FORM</desc>
+  </programme>
   <channel id="airy-552">
     <display-name>Georgia Hollywood Review TV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-552">
-    <title>Georgia Hollywood Review</title>
-    <desc>Chris LeDoux - GHR Talks Live During Quarantine SUNDANCE Film Festival 2020 - Red Carpet Series Miles Neiman - Georgia Film Fund Initiative - Georgia Hollywood "</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822090000 +0000" channel="airy-552">
+  <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-552">
     <title>Georgia Hollywood Review</title>
     <desc>Kim Leadford andamp; Doris Casap - Georgia Hollywood Review TV - OTT Fest 2019 Cas Sigers Beedles - Georgia Hollywood Review TV Georgia Film and Television News"</desc>
   </programme>
@@ -995,14 +1021,6 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <display-name>GodTV Weathernation</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-659">
-    <title>Hair Bear Bunch</title>
-    <desc>The Hair Bears fall short on southern hospitality when they wrongly conclude their new roommate is a spy for Peevly and ship the bear out of the zoo on a tourist bus</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822083000 +0000" channel="airy-659">
-    <title>Hair Bear Bunch</title>
-    <desc>The Hair Bears fall short on southern hospitality when they wrongly conclude their new roommate is a spy for Peevly and ship the bear out of the zoo on a tourist bus</desc>
-  </programme>
   <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-659">
     <title>Hair Bear Bunch</title>
     <desc>Hair Bear Bunch</desc>
@@ -1059,18 +1077,18 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Hair Bear Bunch</title>
     <desc>The Hair Bears introduce Peevly to an imaginary 10-foot rabbit named Arnie to convince him that he is overworked and needs a vacation</desc>
   </programme>
+  <programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="airy-659">
+    <title>Hair Bear Bunch</title>
+    <desc>The Hair Bears fall short on southern hospitality when they wrongly conclude their new roommate is a spy for Peevly and ship the bear out of the zoo on a tourist bus</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-659">
+    <title>Hair Bear Bunch</title>
+    <desc>The Hair Bears fall short on southern hospitality when they wrongly conclude their new roommate is a spy for Peevly and ship the bear out of the zoo on a tourist bus</desc>
+  </programme>
   <channel id="airy-633">
     <display-name>Kids Net</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-633">
-    <title>Dungeons  Dragons</title>
-    <desc>The group encounters Sir John a seemingly fearless knight But hes really a coward his village is ready to exile him unless he performs one brave deed Venger captures Sir Johns son and tells him to lead the group into a trap</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822083000 +0000" channel="airy-633">
-    <title>Inspector Gadget</title>
-    <desc>Quimby sends Gadget to stop MAD from releasing millions in counterfeit money</desc>
-  </programme>
   <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-633">
     <title>Inspector Gadget</title>
     <desc>Quimby believes that MAD is behind the theft of several military planes</desc>
@@ -1128,18 +1146,18 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Dungeons  Dragons</title>
     <desc>Their mystic weapons start to fail them Dungeon Master tells his pupils they need to be recharged in the Hall of Bones But first they must find a guide to the Hall</desc>
   </programme>
+  <programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="airy-633">
+    <title>Dungeons  Dragons</title>
+    <desc>The group encounters a unicorn being attacked They manage to help the Unicorn but Uni is captured by a wizard who is capturing Unicorns and stealing their magical horns They must stop the wizard before he become even more powerful than Venger</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-633">
+    <title>Inspector Gadget</title>
+    <desc>Dr Stench an agent of MAD has invented a substance that makes gold smell terrible making it valueless Inspector Gadget guards the national gold reserve at Fort Bucks</desc>
+  </programme>
   <channel id="airy-658">
     <display-name>Test</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-658">
-    <title>Hair Bear Bunch</title>
-    <desc>The Hair Bears fall short on southern hospitality when they wrongly conclude their new roommate is a spy for Peevly and ship the bear out of the zoo on a tourist bus</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822083000 +0000" channel="airy-658">
-    <title>Hair Bear Bunch</title>
-    <desc>Hair Bear Bunch</desc>
-  </programme>
   <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-658">
     <title>Hari 108</title>
     <desc>Hari 108</desc>
@@ -1196,18 +1214,18 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>Hair Bear Bunch</title>
     <desc>The Hair Bears fall short on southern hospitality when they wrongly conclude their new roommate is a spy for Peevly and ship the bear out of the zoo on a tourist bus</desc>
   </programme>
+  <programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="airy-658">
+    <title>Hair Bear Bunch</title>
+    <desc>The Hair Bears fall short on southern hospitality when they wrongly conclude their new roommate is a spy for Peevly and ship the bear out of the zoo on a tourist bus</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-658">
+    <title>Hair Bear Bunch</title>
+    <desc>Hair Bear Bunch</desc>
+  </programme>
   <channel id="airy-655">
     <display-name>Cowboy Christian Network</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822080000 +0000" channel="airy-655">
-    <title>FANS0820</title>
-    <desc>FANS0820</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822083000 +0000" channel="airy-655">
-    <title>Kenney Store Live Bullseye TV David Cody Reynolds Pt 1</title>
-    <desc>Kenney Store Live Bullseye TV David Cody Reynolds Pt 1</desc>
-  </programme>
   <programme start="20260822083000 +0000" stop="20260822090000 +0000" channel="airy-655">
     <title>Kenney Store Live Bullseye Max Heather Stalling Part 2</title>
     <desc>Kenney Store Live Bullseye Max Heather Stalling Part 2</desc>
@@ -1256,47 +1274,19 @@ Trapped in a missile silo a small team of scientists civilians and trigger-happy
     <title>FANS0810</title>
     <desc>FANS0810</desc>
   </programme>
+  <programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="airy-655">
+    <title>FANS0819</title>
+    <desc>FANS0819</desc>
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822163000 +0000" channel="airy-655">
+    <title>BB605712H</title>
+    <desc>BB605712H</desc>
+  </programme>
   <channel id="airy-660">
     <display-name>FaithNFreedomTV</display-name>
     <icon src="" />
   </channel>
-  <programme start="20260822073000 +0000" stop="20260822073323 +0000" channel="airy-660">
-    <title>Rick’s Alone Time With God Deep Divine Intimacy</title>
-    <desc>Prophetic word from the Lord on 02122026 God invites you into 247 intimacy moving beyond isolated alone time to constant real-time communication By remaining yoked and attentive youll distinguish His voice receive instant course corrections and walk in the true abundant life</desc>
-  </programme>
-  <programme start="20260822073323 +0000" stop="20260822073722 +0000" channel="airy-660">
-    <title>Rick’s Alone Time With God  Forward With Aggression</title>
-    <desc>Prophetic word from the Lord on 12312025 Reject timidity and move forward boldly as God uses the current exposure of evil to accelerate His plans By staying aggressive in faith you become a partner in Gods unstoppable momentum</desc>
-  </programme>
-  <programme start="20260822073722 +0000" stop="20260822074027 +0000" channel="airy-660">
-    <title>Rick’s Alone Time With God They will want the Jesus they see in you!</title>
-    <desc>Prophetic word from the Lord on 01072026 While the world shakes your peace remains solid through prayer and spiritual discipline By focusing on Christ and putting on His armor you reflect His glory and attract others to His victory</desc>
-  </programme>
-  <programme start="20260822074027 +0000" stop="20260822074312 +0000" channel="airy-660">
-    <title>Rick’s Alone Time With God Gods Message_ You WILL Be A World Changer!</title>
-    <desc>Prophetic word from the Lord on 02092026 Reclaim your divine authority and submit to God’s daily direction to become a world changer As you draw near to Him and let your light shine He will heal your land and use you to manifest His Kingdom</desc>
-  </programme>
-  <programme start="20260822074312 +0000" stop="20260822074618 +0000" channel="airy-660">
-    <title>Rick’s Alone Time With God Eternal Life_ Your Chance for Abundant Earthly Blessings!</title>
-    <desc>Prophetic word from the Lord on 01172026 The time for half-hearted faith has passed as God judges the wicked and empowers His remnant By submitting fully to Jesus you escape deception and join the righteous movement to reclaim power and enjoy eternal abundant life</desc>
-  </programme>
-  <programme start="20260822074618 +0000" stop="20260822074852 +0000" channel="airy-660">
-    <title>Rick’s Alone Time With God Gods Calling_ Your Path to Abundant Life Revealed</title>
-    <desc>Prophetic word from the Lord on 03042026God is preparing you for a massive spiritual harvest by inviting you to trade fear for daily divine direction By recording His words and bringing every request to Him you fulfill your unique role in His Kingdom</desc>
-  </programme>
-  <programme start="20260822074852 +0000" stop="20260822075252 +0000" channel="airy-660">
-    <title>Rick’s Alone Time With God  Gods New Earth Mission_ Hear His Voice Join the Movement!</title>
-    <desc>Prophetic word from the Lord on 03082026 God is doing a new thing on earth and wants to use you to accomplish it By prioritizing intimacy writing down His directions and obeying quickly you will help dismantle ancient strongholds and experience the greatest move of God in history</desc>
-  </programme>
-  <programme start="20260822075252 +0000" stop="20260822075620 +0000" channel="airy-660">
-    <title>2026 05 16 Landscape Gods Message Go Time in Heaven</title>
-    <desc>2026 05 16 Landscape Gods Message Go Time in Heaven</desc>
-  </programme>
-  <programme start="20260822075620 +0000" stop="20260822080000 +0000" channel="airy-660">
-    <title>2026 05 13 Landscape Divine Warning The Unshakable Kingdom is Coming!</title>
-    <desc>2026 05 13 Landscape Divine Warning The Unshakable Kingdom is Coming!</desc>
-  </programme>
-  <programme start="20260822080000 +0000" stop="20260822093000 +0000" channel="airy-660">
+  <programme start="20260822083000 +0000" stop="20260822093000 +0000" channel="airy-660">
     <title>Blessed2Teach - Guest InterviewMelK</title>
     <desc>MelK comes join Rick LIVE on the B2T Show to discuss her research and new book called Infiltration Instead of Invasion This addresses how America was betrayed in the years 1944–1954 and sets the stage for a series of books Rick also covers recent news including the newly released Jersey Election Fraud showing purposeful allowing of illegals on the election roles</desc>
   </programme>
@@ -1409,7 +1399,7 @@ She prioritizes natural methods over conventional medicine and describes herself
     <title>Hidden Healing Uncensored - Healed From Cancer</title>
     <desc>Stage 3 cancer survivor Rick Hill shares his powerful journey of faith perseverance and healing Over 50 years ago Rick was given no hope His story proves that belief courage and natural healing can transform even the darkest diagnosis into victory</desc>
   </programme>
-  <programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="airy-660">
+  <programme start="20260822150000 +0000" stop="20260822163000 +0000" channel="airy-660">
     <title>Age Defiantly -  The Bodys Innate Repair System Endogenous Stem Cell Mobilization with Scientist Christian Drapeau</title>
     <desc>In this episode of Age Defiantly host Mark Young sits down with neurophysiologist stem cell researcher and founder of StemREGEN Christian Drapeau to explore the profound reality of the bodys innate intelligence Moving past the early politically charged history of embryonic research Drapeau explains that the true future of regenerative medicine lies within our own adult stem cells which serve as the bodys literal everyday repair system The conversation pulls back the curtain on the mainstream trend of exogenous stem cell injections revealing the surprising scientific reality that injected cells are quickly cleared by the lungs and immune system rather than directly repairing tissue Instead Drapeau highlights the power of endogenous stem cell mobilization—using highly targeted safe plant extracts to naturally trigger the bone marrow to release millions of your own CD34 stem cells into arterial circulation By shifting the paradigm of health to a delicate balance between constant cellular erosion and systemic repair Drapeau shares remarkable clinical data regarding the reversal of chronic congestive heart failure and advanced tissue damage offering a safe cumulative method to overcome the steep stem cell declines of aging and unlock long-term vitality</desc>
   </programme>
