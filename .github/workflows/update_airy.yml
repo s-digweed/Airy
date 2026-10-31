@@ -8,17 +8,24 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
+concurrency:
+  group: update-airy
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'   # 3.9 is end-of-life and has no build for the new Ubuntu runners
 
       - name: Install Dependencies
         run: pip install requests
@@ -32,4 +39,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add airy_channels.m3u airy_channels.xml
           git commit -m "Update Airy Playlist and EPG" || exit 0
+          git pull --rebase origin main || git rebase --abort
           git push
